@@ -1,0 +1,3351 @@
+#EXTM3U
+#EXTENC:UTF-8
+
+#EXTINF:0,Eurodance
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen1.myradio24.com/5967
+
+#EXTINF:0,Dance Wave Retro!
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.dancewave.online:8080/retrodance.mp3
+
+#EXTINF:0,Hotmixradio Dance
+#EXTVLCOPT:http-user-agent=coming_soon
+http://streaming.hotmixradio.fr/hotmixradio-dance-128.mp3
+
+#EXTINF:0,I SUONATI DI ENRICO
+#EXTVLCOPT:http-user-agent=coming_soon
+http://streaming.radiodancefloor.it/live.vorbis
+
+#EXTINF:0,HappyHardcore dance music
+#EXTVLCOPT:http-user-agent=coming_soon
+http://audio-edge-5bkfj.fra.h.radiomast.io/0cef93cd-5974-43b1-868e-c739e81f4f2b
+
+#EXTINF:0,Hardcore
+#EXTVLCOPT:http-user-agent=coming_soon
+http://163.172.70.223:8006/stream/;.m3u
+
+#EXTINF:0,Russia
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
+
+#EXTINF:-1,181 FM 80's Hairband
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-hairband_128k.mp3
+
+#EXTINF:-1,181 FM 90s Alternative
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-90salt_128k.mp3
+
+#EXTINF:-1,181 FM 90s Country
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-90scountry_128k.mp3
+
+#EXTINF:-1,181 FM 90s Dance
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-90sdance_128k.mp3
+
+#EXTINF:-1,181 FM Awesome 80s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-awesome80s_128k.mp3
+
+#EXTINF:-1,181 FM Beatles
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-beatles_128k.mp3
+
+#EXTINF:-1,181 FM Chilled Out
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-chilled_128k.mp3
+
+#EXTINF:-1,181 FM Chloe @181.FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-chloe_128k.mp3
+
+#EXTINF:-1,181 FM Classic Buzz (Alt)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-classicbuzz_128k.mp3
+
+#EXTINF:-1,181 FM Classic Guitar
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-classicalguitar_128k.mp3
+
+#EXTINF:-1,181 FM Classic Hits 181
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-greatoldies_128k.mp3
+
+#EXTINF:-1,181 FM Comedy Club
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-comedy_128k.mp3
+
+#EXTINF:-1,181 FM Energy 93 (Euro EDM)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-energy93_128k.mp3
+
+#EXTINF:-1,181 FM Energy 98
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-energy98_128k.mp3
+
+#EXTINF:-1,181 FM Front Porch (Bluegrass)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-frontporch_128k.mp3
+
+#EXTINF:-1,181 FM Good Time Oldies
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-goodtime_128k.mp3
+
+#EXTINF:-1,181 FM Halloween
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-halloween_128k.mp3
+
+#EXTINF:-1,181 FM Highway
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-highway_128k.mp3
+
+#EXTINF:-1,181 FM Jammin 181
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-jammin_128k.mp3
+
+#EXTINF:-1,181 FM Kickin' Country
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-kickincountry_128k.mp3
+
+#EXTINF:-1,181 FM Lite 80s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-lite80s_128k.mp3
+
+#EXTINF:-1,181 FM Lite 90s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-lite90s_128k.mp3
+
+#EXTINF:-1,181 FM Mellow Gold
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-mellow_128k.mp3
+
+#EXTINF:-1,181 FM Old School HipHop/RnB
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-oldschool_128k.mp3
+
+#EXTINF:-1,181 FM Party 181
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-party_128k.mp3
+
+#EXTINF:-1,181 FM Power 181 (Top 40)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-power_128k.mp3
+
+#EXTINF:-1,181 FM Real Country
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-realcountry_128k.mp3
+
+#EXTINF:-1,181 FM Reggae Roots
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-reggae_128k.mp3
+
+#EXTINF:-1,181 FM Rock 181
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-rock_128k.mp3
+
+#EXTINF:-1,181 FM Rock 40 (R'n'Roll)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-rock40_128k.mp3
+
+#EXTINF:-1,181 FM Salsa
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-salsa_128k.mp3
+
+#EXTINF:-1,181 FM Smooth AC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-smoothac_128k.mp3
+
+#EXTINF:-1,181 FM Soul
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-soul_128k.mp3
+
+#EXTINF:-1,181 FM Star 90s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-star90s_128k.mp3
+
+#EXTINF:-1,181 FM Studio 181
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-ball_128k.mp3
+
+#EXTINF:-1,181 FM Super 70s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-70s_128k.mp3
+
+#EXTINF:-1,181 FM Techno Club
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-technoclub_128k.mp3
+
+#EXTINF:-1,181 FM The Beat (HipHop/R&B)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-beat_128k.mp3
+
+#EXTINF:-1,181 FM The Box (Urban)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-thebox_128k.mp3
+
+#EXTINF:-1,181 FM The Breeze
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-breeze_128k.mp3
+
+#EXTINF:-1,181 FM The Buzz
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-buzz_128k.mp3
+
+#EXTINF:-1,181 FM The Eagle (Classic Rock)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-eagle_128k.mp3
+
+#EXTINF:-1,181 FM The Heart (Love Songs)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-heart_128k.mp3
+
+#EXTINF:-1,181 FM The Mix
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-themix_128k.mp3
+
+#EXTINF:-1,181 FM The Office
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-office_128k.mp3
+
+#EXTINF:-1,181 FM The Point
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-thepoint_128k.mp3
+
+#EXTINF:-1,181 FM The Rock! (Hard Rock)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-hardrock_128k.mp3
+
+#EXTINF:-1,181 FM The Vibe of Vegas
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-vibe_128k.mp3
+
+#EXTINF:-1,181 FM True RnB
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-rnb_128k.mp3
+
+#EXTINF:-1,181 FM UK Top 40
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-uktop40_128k.mp3
+
+#EXTINF:-1,181 FM US 181
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.livestreamingservice.com/181-us181_128k.mp3
+
+#EXTINF:-1,DE:ClubTime FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://mp3.stream.tb-group.fm/clt.mp3
+
+#EXTINF:-1,DE:CoreTime FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://mp3.stream.tb-group.fm/ct.mp3
+
+#EXTINF:-1,DE:HardBase FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://mp3.stream.tb-group.fm/hb.mp3
+
+#EXTINF:-1,DE:HouseTime FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://mp3.stream.tb-group.fm/ht.mp3
+
+#EXTINF:-1,DE:TeaTime FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://mp3.stream.tb-group.fm/tt.mp3
+
+#EXTINF:-1,DE:TechnoBase FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://mp3.stream.tb-group.fm/tb.mp3
+
+#EXTINF:-1,DE:TranceBase FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://mp3.stream.tb-group.fm/trb.mp3
+
+#EXTINF:-1,Discover Trance Radio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://paris.discovertrance.com:8006/;stream
+
+#EXTINF:-1,EHR - Alternative
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.europeanhitradio.com:8000/Stream_37.mp3
+
+#EXTINF:-1,EHR - Dance
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.europeanhitradio.com:8000/Stream_24.mp3
+
+#EXTINF:-1,EHR - Fresh
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.europeanhitradio.com:8000/Stream_25.mp3
+
+#EXTINF:-1,EHR - Love Songs
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.europeanhitradio.com:8000/Stream_28.mp3
+
+#EXTINF:-1,EHR - Remixes
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.europeanhitradio.com:8000/Stream_32.mp3
+
+#EXTINF:-1,EHR - Remixes RU
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.europeanhitradio.com:8000/Stream_35.mp3
+
+#EXTINF:-1,I Love Radio (DE)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream02.iloveradio.de/iloveradio1.mp3
+
+#EXTINF:-1,I Love Radio-Hardstyle
+#EXTVLCOPT:http-user-agent=coming_soon
+https://stream03.iloveradio.de/iloveradio21.mp3
+
+#EXTINF:-1,I Love Radio-Mashup
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream02.iloveradio.de/iloveradio5.mp3
+
+#EXTINF:-1,I Love Radio-Robin Schulz
+#EXTVLCOPT:http-user-agent=coming_soon
+https://stream03.iloveradio.de/iloveradio18.mp3
+
+#EXTINF:-1,I Love Radio-The Battle
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream03.iloveradio.de/iloveradio3.mp3
+
+#EXTINF:-1,I Love Radio-The Beach
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream03.iloveradio.de/iloveradio7.mp3
+
+#EXTINF:-1,I Love Radio-The DJ
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream02.iloveradio.de/iloveradio4.mp3
+
+#EXTINF:-1,I love Radio-2 Dance
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream03.iloveradio.de/iloveradio2.mp3
+
+#EXTINF:-1,Latvijas Radio 5 Pieci
+#EXTVLCOPT:http-user-agent=coming_soon
+http://live.pieci.lv/live19-hq.mp3
+
+#EXTINF:-1,NG Radio Show (Полысаево)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen2.myradio24.com:9000/8840
+
+#EXTINF:-1,PRO DJ Radio (Moldova)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://live.prodjradio.net:8000/;
+
+#EXTINF:-1,PULSRADIO 2000
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.pulsradio.com/puls00HD.mp3
+
+#EXTINF:-1,PULSRADIO 80's
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.pulsradio.com/magicradioHD.mp3
+
+#EXTINF:-1,PULSRADIO 90's
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.pulsradio.com:80/puls90HD.mp3
+
+#EXTINF:-1,PULSRADIO DANCE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.pulsradio.com:80/pulsHD.mp3
+
+#EXTINF:-1,PULSRADIO HIT UK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.pulsradio.com/hitukHD.mp3
+
+#EXTINF:-1,PULSRADIO HITS
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.pulsradio.com:80/hitpartyHD.mp3
+
+#EXTINF:-1,PULSRADIO LOUNGE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.pulsradio.com/relaxHD.mp3
+
+#EXTINF:-1,PULSRADIO MX CLUB
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.pulsradio.com/mxHD.mp3
+
+#EXTINF:-1,PULSRADIO TRANCE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.pulsradio.com:80/pulstranceHD.mp3
+
+#EXTINF:-1,Power Hitz - 1Power
+#EXTVLCOPT:http-user-agent=coming_soon
+http://powerhitz.powerhitz.com:5000/;
+
+#EXTINF:-1,Power Hitz - Hot 108 Jamz
+#EXTVLCOPT:http-user-agent=coming_soon
+http://sc.hot108.com:4020/;
+
+#EXTINF:-1,Radio 1 BG
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream81.metacast.eu/radio1128
+
+#EXTINF:-1,Radio 1 Rock BG
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream81.metacast.eu/radio1rock128
+
+#EXTINF:-1,Radio 10 (NL)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3
+
+#EXTINF:-1,Radio 10 Love Songs
+#EXTVLCOPT:http-user-agent=coming_soon
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR04.mp3
+
+#EXTINF:-1,Radio 1Mix EDM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://fr1.1mix.co.uk:8060/320h
+
+#EXTINF:-1,Radio 1Mix Trance
+#EXTVLCOPT:http-user-agent=coming_soon
+http://fr1.1mix.co.uk:8060/320
+
+#EXTINF:-1,Radio 501 (NL)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://217.21.199.146:9008/stream
+
+#EXTINF:-1,Radio 538 (NL)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
+
+#EXTINF:-1,Radio 538 Dance Department
+#EXTVLCOPT:http-user-agent=coming_soon
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3
+
+#EXTINF:-1,Radio 538 Drops
+#EXTVLCOPT:http-user-agent=coming_soon
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3
+
+#EXTINF:-1,Radio 538 Hitzone
+#EXTVLCOPT:http-user-agent=coming_soon
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3
+
+#EXTINF:-1,Radio 538 Ibiza
+#EXTVLCOPT:http-user-agent=coming_soon
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3
+
+#EXTINF:-1,Radio 538 Nonstop
+#EXTVLCOPT:http-user-agent=coming_soon
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3
+
+#EXTINF:-1,Radio 538 Party
+#EXTVLCOPT:http-user-agent=coming_soon
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3
+
+#EXTINF:-1,Radio 538 Top 50
+#EXTVLCOPT:http-user-agent=coming_soon
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13.mp3
+
+#EXTINF:-1,Radio 538 Verruckte Stunde
+#EXTVLCOPT:http-user-agent=coming_soon
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3
+
+#EXTINF:-1,Radio BG
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream81.metacast.eu/bgradio128
+
+#EXTINF:-1,Radio Big FM (DE)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://streams.bigfm.de/bigfm-deutschland-128-mp3
+
+#EXTINF:-1,Radio Big FM - Balkan
+#EXTVLCOPT:http-user-agent=coming_soon
+http://streams.bigfm.de/bigfm-balkan-128-mp3
+
+#EXTINF:-1,Radio Big FM - Charts
+#EXTVLCOPT:http-user-agent=coming_soon
+http://streams.bigfm.de/bigfm-charts-128-mp3
+
+#EXTINF:-1,Radio Big FM - HipHop
+#EXTVLCOPT:http-user-agent=coming_soon
+http://streams.bigfm.de/bigfm-hiphop-128-mp3
+
+#EXTINF:-1,Radio Big FM - Mashup
+#EXTVLCOPT:http-user-agent=coming_soon
+http://streams.bigfm.de/bigfm-mashup-128-mp3
+
+#EXTINF:-1,Radio Big FM - Party
+#EXTVLCOPT:http-user-agent=coming_soon
+http://streams.bigfm.de/bigfm-party-128-mp3
+
+#EXTINF:-1,Radio Big FM - RNB
+#EXTVLCOPT:http-user-agent=coming_soon
+http://streams.bigfm.de/bigfm-rnb-128-mp3
+
+#EXTINF:-1,Radio Black Beats FM (DE)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://de-hz-fal-stream07.rautemusik.fm/blackbeats
+
+#EXTINF:-1,Radio Bum Bum (SRB)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://185.22.144.158:8000/;
+
+#EXTINF:-1,Radio Chante France
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream1.chantefrance.com/Paris
+
+#EXTINF:-1,Radio City BG
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream81.metacast.eu/city128
+
+#EXTINF:-1,Radio Classic (KZ)
+#EXTVLCOPT:http-user-agent=coming_soon
+https://radio-streams.kaztrk.kz/classic/classic/icecast.audio
+
+#EXTINF:-1,Radio Expres (SK)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.expres.sk:8000/128.mp3
+
+#EXTINF:-1,Radio FG (BE)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radiofg.impek.com/fga
+
+#EXTINF:-1,Radio FG (France)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radiofg.impek.com/fg
+
+#EXTINF:-1,Radio FG Chic
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radiofg.impek.com/fgchic
+
+#EXTINF:-1,Radio FG Deep Dance
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radiofg.impek.com/fgd
+
+#EXTINF:-1,Radio FG Underground
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radiofg.impek.com/ufg.mp3
+
+#EXTINF:-1,Radio Fitinn (Австрия)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://onair.krone.at/fitinn.mp3
+
+#EXTINF:-1,Radio Gaydio (UK)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.gaydio.co.uk/gaydioukhq.mp3
+
+#EXTINF:-1,Radio Gra Torun (PL)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://31.192.216.10/RADIOGRA
+
+#EXTINF:-1,Radio Italo4you (PL)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://91.232.4.33:8018/stream
+
+#EXTINF:-1,Radio Kingdom FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream8.considerit.co.uk/kingdomfm128.mp3
+
+#EXTINF:-1,Radio Kiss FM (DE)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.kissfm.de/kissfm/mp3-128/internetradio/
+
+#EXTINF:-1,Radio Kiss FM (ESP)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://kissfm.kissfmradio.cires21.com/kissfm.mp3
+
+#EXTINF:-1,Radio Kronehit (Австрия)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://onair.krone.at/kronehit-ultra-hd.aac
+
+#EXTINF:-1,Radio M1 (Австрия)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://m1.stream.laut.fm/m1
+
+#EXTINF:-1,Radio Muz FM (Moldova)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://live.muzfm.md:8000/muzfm
+
+#EXTINF:-1,Radio NRJ (BG)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream81.metacast.eu/nrj128
+
+#EXTINF:-1,Radio NRJ (Berlin)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://nrj.de/berlin
+
+#EXTINF:-1,Radio NRJ (Norge)
+#EXTVLCOPT:http-user-agent=coming_soon
+https://p4.p4groupaudio.com/NRJ_MH
+
+#EXTINF:-1,Radio Nova BG
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream81.metacast.eu/nova128
+
+#EXTINF:-1,Radio Nova News
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream81.metacast.eu/novanews.mp3
+
+#EXTINF:-1,Radio OUI FM (FR)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.ouifm.fr/ouifm-high.mp3
+
+#EXTINF:-1,Radio P10 Country
+#EXTVLCOPT:http-user-agent=coming_soon
+https://p4.p4groupaudio.com/P10_MH
+
+#EXTINF:-1,Radio P11 Bandit
+#EXTVLCOPT:http-user-agent=coming_soon
+https://p4.p4groupaudio.com/P11_MH
+
+#EXTINF:-1,Radio P4 (Norge)
+#EXTVLCOPT:http-user-agent=coming_soon
+https://p4.p4groupaudio.com/P04_MH
+
+#EXTINF:-1,Radio P5 Hits
+#EXTVLCOPT:http-user-agent=coming_soon
+https://p5.p4groupaudio.com/P05_MH
+
+#EXTINF:-1,Radio P5 Nonstop Hits
+#EXTVLCOPT:http-user-agent=coming_soon
+https://p5n.p4groupaudio.com/P05AMH
+
+#EXTINF:-1,Radio P6 Rock
+#EXTVLCOPT:http-user-agent=coming_soon
+https://p6.p4groupaudio.com/P06_MH
+
+#EXTINF:-1,Radio P7 Klem
+#EXTVLCOPT:http-user-agent=coming_soon
+https://p7.p4groupaudio.com/P07_MH
+
+#EXTINF:-1,Radio P8 Pop
+#EXTVLCOPT:http-user-agent=coming_soon
+https://p8.p4groupaudio.com/P08_MH
+
+#EXTINF:-1,Radio P9 Retro
+#EXTVLCOPT:http-user-agent=coming_soon
+https://p9.p4groupaudio.com/P09_MH
+
+#EXTINF:-1,Radio RFI (ROM)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://asculta.rfi.ro:9128/live.mp3
+
+#EXTINF:-1,Radio RMF FM (PL)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://31.192.216.5:8000/rmf_fm
+
+#EXTINF:-1,Radio RTL 102.5 (IT)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://shoutcast.rtl.it:3010/stream/1/
+
+#EXTINF:-1,Radio Rock Antenne (DE)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://mp3channels.webradio.antenne.de/rockantenne
+
+#EXTINF:-1,Radio Rock Antenne - Deutsch Rock
+#EXTVLCOPT:http-user-agent=coming_soon
+http://mp3channels.webradio.antenne.de/deutschrock
+
+#EXTINF:-1,Radio Rock Antenne - Heavy Metal
+#EXTVLCOPT:http-user-agent=coming_soon
+http://mp3channels.webradio.antenne.de/heavy-metal
+
+#EXTINF:-1,Radio Rouge FM (FR)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://rougefm.ice.infomaniak.ch/rougefm-high.mp3
+
+#EXTINF:-1,Radio Slam!
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.slam.nl/slam
+
+#EXTINF:-1,Radio Slam! 40
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.slam.nl/web14_mp3
+
+#EXTINF:-1,Radio Slam! Dance Classics
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.slam.nl/web15_mp3
+
+#EXTINF:-1,Radio Slam! Hardstyle
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.slam.nl/web11_mp3
+
+#EXTINF:-1,Radio Slam! MixMarathon
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.slam.nl/web13_mp3
+
+#EXTINF:-1,Radio Slam! Non-Stop
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.slam.nl/web10_mp3
+
+#EXTINF:-1,Radio Slam! The Boom Room
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.slam.nl/web12_mp3
+
+#EXTINF:-1,Radio Star FM (LV)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://starfm.live.advailo.com/audio/mp3/icecast.audio
+
+#EXTINF:-1,Radio Talk Sport 2 (UK)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio.talksport.com/stream2
+
+#EXTINF:-1,Radio Tangra Mega Rock (BG)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream-03.radiotangra.com:8000/Tangra-high
+
+#EXTINF:-1,Radio Top80 (PL)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio.top80.pl:9940/;
+
+#EXTINF:-1,Radio V2Beat
+#EXTVLCOPT:http-user-agent=coming_soon
+https://de1se01.v2beat.live/icecast.audio
+
+#EXTINF:-1,Radio Veronica (NL)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA
+
+#EXTINF:-1,Radio Veronika (BG)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream81.metacast.eu/veronika128
+
+#EXTINF:-1,Radio WIT FM (FR)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://start-witfm.ice.infomaniak.ch/start-witfm-high.mp3
+
+#EXTINF:-1,Radio WIT FM-2000
+#EXTVLCOPT:http-user-agent=coming_soon
+http://wit2000.ice.infomaniak.ch/wit2000.mp3
+
+#EXTINF:-1,Radio WIT FM-80’s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://wit80s.ice.infomaniak.ch/wit80s.mp3
+
+#EXTINF:-1,Radio WIT FM-90’s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://wit90s.ice.infomaniak.ch/wit90s.mp3
+
+#EXTINF:-1,Radio WIT FM-Club
+#EXTVLCOPT:http-user-agent=coming_soon
+http://witclub.ice.infomaniak.ch/witclub.mp3
+
+#EXTINF:-1,Radio WIT FM-Love
+#EXTVLCOPT:http-user-agent=coming_soon
+http://witlove.ice.infomaniak.ch/witlove.mp3
+
+#EXTINF:-1,RadioGora - Electro (Белгород)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radiogora.ru:8000/electro320
+
+#EXTINF:-1,RadioGora - Hit Mix
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radiogora.ru:8000/hitmix128
+
+#EXTINF:-1,Авторадио (BG)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream81.metacast.eu/avtoradio.mp3
+
+#EXTINF:-1,Аниме Радио Anison FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://pool.anison.fm:9000/AniSonFM(320)
+
+#EXTINF:-1,Большое Радио (Мурманск)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.myradio24.com:9000/8286
+
+#EXTINF:-1,Всемирная радиосеть(WRN Europa)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://shoutcast.wrn.org:8025/WRN-E
+
+#EXTINF:-1,Всемирная радиосеть(WRN RU)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://shoutcast.wrn.org:8025/WRN-R
+
+#EXTINF:-1,Детское Радио
+#EXTVLCOPT:http-user-agent=coming_soon
+http://ic7.101.ru:8000/v14_1
+
+#EXTINF:-1,Детское Радио Baby FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://a5.radioheart.ru:8012/nonstop
+
+#EXTINF:-1,Дорожное Радио
+#EXTVLCOPT:http-user-agent=coming_soon
+http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
+
+#EXTINF:-1,Казахское Радио
+#EXTVLCOPT:http-user-agent=coming_soon
+https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
+
+#EXTINF:-1,Классное радио
+#EXTVLCOPT:http-user-agent=coming_soon
+http://schoolradio.hostingradio.ru:8026/schoolradio128.mp3
+
+#EXTINF:-1,Легкое Радио
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio.slamfm.ru:8000/light
+
+#EXTINF:-1,Наше Радио
+#EXTVLCOPT:http-user-agent=coming_soon
+http://nashe1.hostingradio.ru:80/nashe-256
+
+#EXTINF:-1,Наше Радио - 2.0
+#EXTVLCOPT:http-user-agent=coming_soon
+http://nashe1.hostingradio.ru:80/nashe20-256
+
+#EXTINF:-1,Наше Радио - Классик рок
+#EXTVLCOPT:http-user-agent=coming_soon
+http://jfm1.hostingradio.ru:14536/nasheclassic.mp3
+
+#EXTINF:-1,Наше Радио - Панки Хой!
+#EXTVLCOPT:http-user-agent=coming_soon
+http://jfm1.hostingradio.ru:14536/nashepunks.mp3
+
+#EXTINF:-1,Наше Радио - Щас спою
+#EXTVLCOPT:http-user-agent=coming_soon
+http://jfm1.hostingradio.ru:14536/nashesongs.mp3
+
+#EXTINF:-1,Неслучайное радио
+#EXTVLCOPT:http-user-agent=coming_soon
+http://aska.ru-hoster.com:8006/autodj
+
+#EXTINF:-1,Нефтерадио
+#EXTVLCOPT:http-user-agent=coming_soon
+http://m8m128.hostingradio.ru:8074/m8m128.mp3
+
+#EXTINF:-1,Новое Радио
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.newradio.cdnvideo.ru/newradio3
+
+#EXTINF:-1,Ну и Радио (Чебоксары)
+#EXTVLCOPT:http-user-agent=coming_soon
+https://a2.radioheart.ru:9003/nonstop
+
+#EXTINF:-1,ОТО Радио
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen1.myradio24.com:9000/7859
+
+#EXTINF:-1,Отличное радио
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen1.myradio24.com:9000/8234
+
+#EXTINF:-1,Первое Союзное радио
+#EXTVLCOPT:http-user-agent=coming_soon
+https://souz.hostingradio.ru:80/souz192.mp3
+
+#EXTINF:-1,Правильное Радио (Кемерово)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://78.41.94.37:8332/;
+
+#EXTINF:-1,Радио 100.3 FM (Лянтор)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://a2.radioheart.ru:8015/admin
+
+#EXTINF:-1,Радио 13
+#EXTVLCOPT:http-user-agent=coming_soon
+http://play.radio13.ru:8000/mp3
+
+#EXTINF:-1,Радио 2 (Комсомольск-на-Амуре)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://212.19.18.133:8000/stream
+
+#EXTINF:-1,Радио 3DO
+#EXTVLCOPT:http-user-agent=coming_soon
+http://s3.radioheart.ru:8006/nonstop
+
+#EXTINF:-1,Радио 54 (Новосибирск)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://91.202.68.50:8000/;
+
+#EXTINF:-1,Радио 7 (Семей) KZ
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen2.myradio24.com:9000/8334
+
+#EXTINF:-1,Радио 7 Rays
+#EXTVLCOPT:http-user-agent=coming_soon
+http://7rays.stream.laut.fm/7rays
+
+#EXTINF:-1,Радио 7 на семи холмах
+#EXTVLCOPT:http-user-agent=coming_soon
+http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
+
+#EXTINF:-1,Радио Alise Plus (Латвия)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://fm2inet.aliseplus.lv:8000/
+
+#EXTINF:-1,Радио Aurum Inutile
+#EXTVLCOPT:http-user-agent=coming_soon
+http://a5.radioheart.ru:8014/nonstop
+
+#EXTINF:-1,Радио Best
+#EXTVLCOPT:http-user-agent=coming_soon
+https://nashe1.hostingradio.ru:18000/best-256
+
+#EXTINF:-1,Радио Best FM (Мариуполь)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio.bestfm.fm/bestfm_mp3
+
+#EXTINF:-1,Радио Bulbul (KZ)
+#EXTVLCOPT:http-user-agent=coming_soon
+https://radiobulbul.stream.laut.fm/radiobulbul
+
+#EXTINF:-1,Радио Capital FM (Moscow)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.vgtrk.cdnvideo.ru/moscowfmen128
+
+#EXTINF:-1,Радио Chillout FM (Сургут)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen2.myradio24.com:9000/8795
+
+#EXTINF:-1,Радио Coma FM
+#EXTVLCOPT:http-user-agent=coming_soon
+https://stream.radio.co/s4360dbc20/listen
+
+#EXTINF:-1,Радио DFM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dfm.hostingradio.ru/dfm128.mp3
+
+#EXTINF:-1,Радио DFM - Bass House
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dfm.hostingradio.ru/basshouse96.aacp
+
+#EXTINF:-1,Радио DFM - Club
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dfm.hostingradio.ru/dfmclub96.aacp
+
+#EXTINF:-1,Радио DFM - Dancehall
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dfm.hostingradio.ru/dancehall96.aacp
+
+#EXTINF:-1,Радио DFM - Deep
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dfm.hostingradio.ru/dfmdeep96.aacp
+
+#EXTINF:-1,Радио DFM - Disco
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dfm.hostingradio.ru/disco96.aacp
+
+#EXTINF:-1,Радио DFM - Drum
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dfm.hostingradio.ru/drum96.aacp
+
+#EXTINF:-1,Радио DFM - Hands Up
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dfm.hostingradio.ru/handsup96.aacp
+
+#EXTINF:-1,Радио DFM - Insomnia
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dfm.hostingradio.ru/insomnia96.aacp
+
+#EXTINF:-1,Радио DFM - Pop Dance
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dfm.hostingradio.ru/popdance96.aacp
+
+#EXTINF:-1,Радио DFM - Pump
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dfm.hostingradio.ru/pump96.aacp
+
+#EXTINF:-1,Радио DFM - Russian Dance
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dfm.hostingradio.ru/dfmrusdance96.aacp
+
+#EXTINF:-1,Радио DFM - Tech House
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dfm.hostingradio.ru/techhouse96.aacp
+
+#EXTINF:-1,Радио DFM - Trance
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dfm.hostingradio.ru/trance96.aacp
+
+#EXTINF:-1,Радио DFM - Trap
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dfm.hostingradio.ru/dfmtrap96.aacp
+
+#EXTINF:-1,Радио DFM - Грустный Дэнс
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dfm.hostingradio.ru/saddance96.aacp
+
+#EXTINF:-1,Радио DFM - Дискач 90-х
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dfm.hostingradio.ru/disc9096.aacp
+
+#EXTINF:-1,Радио DFM - Жидкий Драм
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dfm.hostingradio.ru/liquid96.aacp
+
+#EXTINF:-1,Радио DFM - Кальян Рэп
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dfm.hostingradio.ru/kalianrap96.aacp
+
+#EXTINF:-1,Радио Deluxe
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radiodeluxe.hostingradio.ru:8027/radiodeluxe.mp3
+
+#EXTINF:-1,Радио Fresh Rock
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.freshrock.net/320.mp3
+
+#EXTINF:-1,Радио GO
+#EXTVLCOPT:http-user-agent=coming_soon
+http://a2.radioheart.ru:8009/nonstop
+
+#EXTINF:-1,Радио Geometry FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://music.geometryfm.ru/radio/8000/geometryfm320
+
+#EXTINF:-1,Радио Impulse BY
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio.dline-media.com/impulse
+
+#EXTINF:-1,Радио Jazz
+#EXTVLCOPT:http-user-agent=coming_soon
+http://nashe1.hostingradio.ru:80/jazz-256
+
+#EXTINF:-1,Радио Jazz - Classic
+#EXTVLCOPT:http-user-agent=coming_soon
+http://jfm1.hostingradio.ru:14536/ijstream.mp3
+
+#EXTINF:-1,Радио Jazz - Legends
+#EXTVLCOPT:http-user-agent=coming_soon
+http://jfm1.hostingradio.ru:14536/jlstream.mp3
+
+#EXTINF:-1,Радио Jazz - Smooth
+#EXTVLCOPT:http-user-agent=coming_soon
+http://jfm1.hostingradio.ru:14536/sjstream.mp3
+
+#EXTINF:-1,Радио Jazz - Vocals
+#EXTVLCOPT:http-user-agent=coming_soon
+http://jfm1.hostingradio.ru:14536/jvstream.mp3
+
+#EXTINF:-1,Радио KFC FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://yumfm.hostingradio.ru:8020/yumfm128.mp3
+
+#EXTINF:-1,Радио Love IS (BY)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen1.myradio24.com:9000/3355
+
+#EXTINF:-1,Радио MakkiRus (Волгоград)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://air.volna.top/makkirus128
+
+#EXTINF:-1,Радио Maximum
+#EXTVLCOPT:http-user-agent=coming_soon
+http://maximum.hostingradio.ru/maximum128.mp3
+
+#EXTINF:-1,Радио Maximum - 90е
+#EXTVLCOPT:http-user-agent=coming_soon
+http://maximum.hostingradio.ru/maximum9096.aacp
+
+#EXTINF:-1,Радио Maximum - Depeche Mode
+#EXTVLCOPT:http-user-agent=coming_soon
+http://maximum.hostingradio.ru/depechemode96.aacp
+
+#EXTINF:-1,Радио Maximum - Heavy Monday
+#EXTVLCOPT:http-user-agent=coming_soon
+http://maximum.hostingradio.ru/heavymonday96.aacp
+
+#EXTINF:-1,Радио Maximum - Metallica
+#EXTVLCOPT:http-user-agent=coming_soon
+http://maximum.hostingradio.ru/metallica96.aacp
+
+#EXTINF:-1,Радио Maximum - Rock Hits
+#EXTVLCOPT:http-user-agent=coming_soon
+http://maximum.hostingradio.ru/rockhits96.aacp
+
+#EXTINF:-1,Радио Maximum - Миллениум
+#EXTVLCOPT:http-user-agent=coming_soon
+http://maximum.hostingradio.ru/millenium96.aacp
+
+#EXTINF:-1,Радио NRJ
+#EXTVLCOPT:http-user-agent=coming_soon
+http://ic7.101.ru:8000/v1_1
+
+#EXTINF:-1,Радио Noise FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://play.sas-media.ru/play_256
+
+#EXTINF:-1,Радио Power Хит (Мурманск)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio.dline-media.com/powerhit128
+
+#EXTINF:-1,Радио Premium
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.rpfm.ru:9000/premium192
+
+#EXTINF:-1,Радио PriMuz
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen2.myradio24.com:9000/8118
+
+#EXTINF:-1,Радио RFM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio-holding.ru:9000/rfm_bel
+
+#EXTINF:-1,Радио Remix
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio-remix.ru:8000/radio
+
+#EXTINF:-1,Радио Rock n Roll
+#EXTVLCOPT:http-user-agent=coming_soon
+http://a6.radioheart.ru:8046/RH1972
+
+#EXTINF:-1,Радио Royal (С.-Петербург)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://185.39.195.90:8000/royal_radio
+
+#EXTINF:-1,Радио Royal - Deep
+#EXTVLCOPT:http-user-agent=coming_soon
+http://185.39.195.90:8000/royal_deep
+
+#EXTINF:-1,Радио Royal - Rock
+#EXTVLCOPT:http-user-agent=coming_soon
+http://193.33.170.218:8000/RoyalRock
+
+#EXTINF:-1,Радио SPB1
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen2.myradio24.com:9000/2666
+
+#EXTINF:-1,Радио Sfera Music
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio.radioshansonplus.com:8000/radio
+
+#EXTINF:-1,Радио Soulplay
+#EXTVLCOPT:http-user-agent=coming_soon
+http://s1.radioheart.ru:8018/nonstop
+
+#EXTINF:-1,Радио Soundeo FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen1.myradio24.com:9000/2288
+
+#EXTINF:-1,Радио Studio 21
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast-studio21.cdnvideo.ru/S21_1
+
+#EXTINF:-1,Радио Tanz FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://s0.radioheart.ru:8000/tanzfm
+
+#EXTINF:-1,Радио Uvaga (Беларусь)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://up.uvaga.by:8100/uvaga320
+
+#EXTINF:-1,Радио Vanilla FM (Брянск)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio.vanilla-fm.ru:8000/music
+
+#EXTINF:-1,Радио Wargaming FM BY
+#EXTVLCOPT:http-user-agent=coming_soon
+http://wargaming.fm/1.256
+
+#EXTINF:-1,Радио Wargaming FM-Rock
+#EXTVLCOPT:http-user-agent=coming_soon
+http://wargaming.fm/4.256
+
+#EXTINF:-1,Радио Wargaming FM-Trance
+#EXTVLCOPT:http-user-agent=coming_soon
+http://wargaming.fm/3.256
+
+#EXTINF:-1,Радио Азиатская волна (Japan)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen1.myradio24.com:9000/7934
+
+#EXTINF:-1,Радио Актив
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen1.myradio24.com:9000/9708
+
+#EXTINF:-1,Радио Балтийский берег (Сосновый бор)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://91.203.171.138:8080/
+
+#EXTINF:-1,Радио Барановичи FM BY
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio.100fm.by:8000/streamaac
+
+#EXTINF:-1,Радио Бизнес FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://bfm.hostingradio.ru:8004/fm
+
+#EXTINF:-1,Радио Благовестие (Воронеж)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://live.borneo.ru:8888/bv128
+
+#EXTINF:-1,Радио Болид (Пермь)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast-bulteam.cdnvideo.ru/bolid128
+
+#EXTINF:-1,Радио Борнео (Воронеж)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://live.borneo.ru:8888/128
+
+#EXTINF:-1,Радио Бруклин FM (USA)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.bfmradio.us:8070/radio
+
+#EXTINF:-1,Радио Буряад FM (Улан-Удэ)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://buryadfm.hostingradio.ru:8018/buryadfm128.mp3
+
+#EXTINF:-1,Радио Буу!
+#EXTVLCOPT:http-user-agent=coming_soon
+http://buu.hostingradio.ru:8005/radio
+
+#EXTINF:-1,Радио Ваня (С.-Петербург)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast-radiovanya.cdnvideo.ru/rv_spb
+
+#EXTINF:-1,Радио Ваня - Веселый Dance
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast-radiovanya.cdnvideo.ru:8000/rv_Happy_Dance
+
+#EXTINF:-1,Радио Ваня - Не лихие 90е
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast-radiovanya.cdnvideo.ru:8000/rv_90
+
+#EXTINF:-1,Радио Ваня - Олдскул
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast-radiovanya.cdnvideo.ru:8000/rv_retro
+
+#EXTINF:-1,Радио Ваня - Свежий бит
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast-radiovanya.cdnvideo.ru:8000/rv_hit
+
+#EXTINF:-1,Радио Вера
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radiovera.hostingradio.ru:8007/radiovera_128
+
+#EXTINF:-1,Радио Вера Классик
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radiovera.hostingradio.ru:8007/radioverausadba128.mp3
+
+#EXTINF:-1,Радио Вести FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.vgtrk.cdnvideo.ru/vestifm
+
+#EXTINF:-1,Радио Витамин FM v.90
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen6.myradio24.com:9000/vitaminfm
+
+#EXTINF:-1,Радио Волны Байкала
+#EXTVLCOPT:http-user-agent=coming_soon
+http://31.134.47.205:8000
+
+#EXTINF:-1,Радио Гамаюн
+#EXTVLCOPT:http-user-agent=coming_soon
+http://gamaun.online:8020/radio
+
+#EXTINF:-1,Радио Говорит Майкоп
+#EXTVLCOPT:http-user-agent=coming_soon
+http://voicemaikop.hostingradio.ru:8003/voicemaikop128.mp3
+
+#EXTINF:-1,Радио Голос Азии (Кызыл)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://94.230.247.142:5050/
+
+#EXTINF:-1,Радио Голос Мингрельской
+#EXTVLCOPT:http-user-agent=coming_soon
+http://a1.radioheart.ru:8000/nonstop
+
+#EXTINF:-1,Радио Джокер
+#EXTVLCOPT:http-user-agent=coming_soon
+http://rjoker.hostingradio.ru/rjoker128.mp3
+
+#EXTINF:-1,Радио Диполь FM (Тюмень)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.sibinformburo.cdnvideo.ru:8000/dipolfm
+
+#EXTINF:-1,Радио Добрый Настрой
+#EXTVLCOPT:http-user-agent=coming_soon
+http://s3.radioheart.ru:8013/nonstop
+
+#EXTINF:-1,Радио Евродэнс 90х
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen1.myradio24.com:9000/5967
+
+#EXTINF:-1,Радио Европа Плюс
+#EXTVLCOPT:http-user-agent=coming_soon
+http://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3
+
+#EXTINF:-1,Радио ЗвукоКнига
+#EXTVLCOPT:http-user-agent=coming_soon
+http://94.181.45.104:8005/;
+
+#EXTINF:-1,Радио Зенит (С.-Петербург)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://ic7.101.ru:8000/v15_1
+
+#EXTINF:-1,Радио Искатель
+#EXTVLCOPT:http-user-agent=coming_soon
+http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
+
+#EXTINF:-1,Радио КЧР FM (Черкесск)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radiokchr.ru/kchrfm.mp3
+
+#EXTINF:-1,Радио Кавказ-Хит (Черкесск)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://kavkazhit.hostingradio.ru:8017/kavkazhit96.mp3
+
+#EXTINF:-1,Радио Калина Красная FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast-studio21.cdnvideo.ru/KalynaK_1a
+
+#EXTINF:-1,Радио Кальян FM
+#EXTVLCOPT:http-user-agent=coming_soon
+https://a3.radioheart.ru:9002/RH7347
+
+#EXTINF:-1,Радио Камчатка Live - Chillout
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio.kamchatkalive.ru:8100/chillout
+
+#EXTINF:-1,Радио Камчатка Live - Dance
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio.kamchatkalive.ru:8100/dance
+
+#EXTINF:-1,Радио Камчатка Live - Rock
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio.kamchatkalive.ru:8100/rock
+
+#EXTINF:-1,Радио Кан Рэка (ISR)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://kanliveicy01.bynetcdn.com/icy/kanreka_mp3
+
+#EXTINF:-1,Радио Каприз - Gothic Metal
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8002/gothicmetal
+
+#EXTINF:-1,Радио Каприз - Post Hardcore
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/posthardcore
+
+#EXTINF:-1,Радио Каприз - Russian Club Dance
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8002/clubru
+
+#EXTINF:-1,Радио Каприз - Russian Shanson
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8002/postshanson
+
+#EXTINF:-1,Радио Каприз - Techno
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8002/techno
+
+#EXTINF:-1,Радио Каприз - Trance
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8002/trance
+
+#EXTINF:-1,Радио Карл
+#EXTVLCOPT:http-user-agent=coming_soon
+http://air.volna.top/Karl
+
+#EXTINF:-1,Радио Кекс FM UA
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen6.myradio24.com:9000/5390
+
+#EXTINF:-1,Радио Классик
+#EXTVLCOPT:http-user-agent=coming_soon
+http://jfm1.hostingradio.ru:14536/rcstream.mp3
+
+#EXTINF:-1,Радио Книга
+#EXTVLCOPT:http-user-agent=coming_soon
+http://bookradio.hostingradio.ru:8069/fm
+
+#EXTINF:-1,Радио Коммерсант FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://kommersant77.hostingradio.ru:8016/kommersant128.mp3
+
+#EXTINF:-1,Радио Компот FM
+#EXTVLCOPT:http-user-agent=coming_soon
+https://a4.radioheart.ru:9023/nonstop
+
+#EXTINF:-1,Радио Комсомольская Правда
+#EXTVLCOPT:http-user-agent=coming_soon
+http://kpradio.hostingradio.ru:8000/128
+
+#EXTINF:-1,Радио Крылья
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen7.myradio24.com:9000/rkradio_320.mp3
+
+#EXTINF:-1,Радио Культура
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.vgtrk.cdnvideo.ru/kulturafm
+
+#EXTINF:-1,Радио Лайк FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://ic7.101.ru:8000/v12_1
+
+#EXTINF:-1,Радио Маруся FM (Белгород)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio-holding.ru:9000/marusya_default
+
+#EXTINF:-1,Радио Маяк
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.vgtrk.cdnvideo.ru/mayakfm
+
+#EXTINF:-1,Радио Мелодия (Воронеж)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.mediaalliance.cdnvideo.ru/mediaalliance
+
+#EXTINF:-1,Радио Милицейская Волна
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radiomv.hostingradio.ru/radiomv256.mp3
+
+#EXTINF:-1,Радио Монте-Карло
+#EXTVLCOPT:http-user-agent=coming_soon
+http://montecarlo.hostingradio.ru/montecarlo128.mp3
+
+#EXTINF:-1,Радио Монте-Карло - Bossa Nova
+#EXTVLCOPT:http-user-agent=coming_soon
+http://montecarlo.hostingradio.ru/mcbossa96.aacp
+
+#EXTINF:-1,Радио Монте-Карло - France
+#EXTVLCOPT:http-user-agent=coming_soon
+http://montecarlo.hostingradio.ru/france96.aacp
+
+#EXTINF:-1,Радио Монте-Карло - Gold Collection
+#EXTVLCOPT:http-user-agent=coming_soon
+http://montecarlo.hostingradio.ru/mcgold96.aacp
+
+#EXTINF:-1,Радио Монте-Карло - Nights
+#EXTVLCOPT:http-user-agent=coming_soon
+http://montecarlo.hostingradio.ru/mcnight96.aacp
+
+#EXTINF:-1,Радио Монте-Карло - Sweet
+#EXTVLCOPT:http-user-agent=coming_soon
+http://montecarlo.hostingradio.ru/mcsweet96.aacp
+
+#EXTINF:-1,Радио Монте-Карло - Мировое кино
+#EXTVLCOPT:http-user-agent=coming_soon
+http://montecarlo.hostingradio.ru/mirkino96.aacp
+
+#EXTINF:-1,Радио Монте-Карло - Музыка без слов
+#EXTVLCOPT:http-user-agent=coming_soon
+http://montecarlo.hostingradio.ru/muzykabezslov96.aacp
+
+#EXTINF:-1,Радио Монте-Карло - Песни о Любви
+#EXTVLCOPT:http-user-agent=coming_soon
+http://montecarlo.hostingradio.ru/pesniolyubvi96.aacp
+
+#EXTINF:-1,Радио Москва FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.vgtrk.cdnvideo.ru/moscowfm128
+
+#EXTINF:-1,Радио Москвы
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.vgtrk.cdnvideo.ru/moscowtalk128
+
+#EXTINF:-1,Радио Мята
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio.dline-media.com/myata
+
+#EXTINF:-1,Радио Новая Волна (Владимир)
+#EXTVLCOPT:http-user-agent=coming_soon
+https://icecast-trc33.cdnvideo.ru/stream
+
+#EXTINF:-1,Радио Новое Вещание(Liquid Flash)
+#EXTVLCOPT:http-user-agent=coming_soon
+https://xn--80aimyg.xn--80adalbbu8afeb9k.xn--p1ai/radio/8000/radio
+
+#EXTINF:-1,Радио Ностальжи UA
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.luxnet.ua/nostalgie_mp3
+
+#EXTINF:-1,Радио Ностальжи Россия
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen7.myradio24.com:9000/alexx333
+
+#EXTINF:-1,Радио ОлдХит
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio.oldxit.ru:8000/radio
+
+#EXTINF:-1,Радио Орфей
+#EXTVLCOPT:http-user-agent=coming_soon
+http://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3
+
+#EXTINF:-1,Радио ПИ FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://cdn.pifm.ru/mp3
+
+#EXTINF:-1,Радио Пассаж
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radiopassazh.ru/mp3-128
+
+#EXTINF:-1,Радио Первое Сетевое (Липецк)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://streamer.radiovseti.ru:8000/320
+
+#EXTINF:-1,Радио Пирамида (Назарово)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://91.211.56.218:8080/piramida/nazarovo
+
+#EXTINF:-1,Радио Питер FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast-piterfm.cdnvideo.ru/piterfm
+
+#EXTINF:-1,Радио Популярная Классика (С.-Петербург)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast-radioclassica.cdnvideo.ru/radioclassica
+
+#EXTINF:-1,Радио Радонеж
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.radonezh.cdnvideo.ru:8000/rad128
+
+#EXTINF:-1,Радио Рады Музыке
+#EXTVLCOPT:http-user-agent=coming_soon
+http://core-lab.ru:8000/radymuz.mp3
+
+#EXTINF:-1,Радио Ракета (Омск)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://a6.radioheart.ru:8017/nonstop
+
+#EXTINF:-1,Радио Релакс FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://ic7.101.ru:8000/v13_1
+
+#EXTINF:-1,Радио Релиз
+#EXTVLCOPT:http-user-agent=coming_soon
+https://a1.radioheart.ru:9030/RH22511
+
+#EXTINF:-1,Радио Ретро FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
+
+#EXTINF:-1,Радио Ретро FM (LV)
+#EXTVLCOPT:http-user-agent=coming_soon
+https://live.retrofm.lv/retrofmlatvia
+
+#EXTINF:-1,Радио Родных дорог (Чебоксары)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream1.radiord.ru:8000/live128.mp3
+
+#EXTINF:-1,Радио Рок FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://nashe1.hostingradio.ru:80/rock-256
+
+#EXTINF:-1,Радио Рок FM - 00s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://jfm1.hostingradio.ru:14536/rock00.mp3
+
+#EXTINF:-1,Радио Рок FM - 70s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://jfm1.hostingradio.ru:14536/rock70.mp3
+
+#EXTINF:-1,Радио Рок FM - 80s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://jfm1.hostingradio.ru:14536/rock80.mp3
+
+#EXTINF:-1,Радио Рок FM - 90s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://jfm1.hostingradio.ru:14536/rock90.mp3
+
+#EXTINF:-1,Радио Рок FM - Heavy
+#EXTVLCOPT:http-user-agent=coming_soon
+http://jfm1.hostingradio.ru:14536/metal.mp3
+
+#EXTINF:-1,Радио Рок FM - Prog
+#EXTVLCOPT:http-user-agent=coming_soon
+http://jfm1.hostingradio.ru:14536/prog.mp3
+
+#EXTINF:-1,Радио Рокс (С.-Петербург)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.radiorocks.cdnvideo.ru/roks.stream
+
+#EXTINF:-1,Радио Романтика
+#EXTVLCOPT:http-user-agent=coming_soon
+http://ic7.101.ru:8000/v4_1
+
+#EXTINF:-1,Радио России
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.vgtrk.cdnvideo.ru/rrzonam
+
+#EXTINF:-1,Радио России FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.vgtrk.cdnvideo.ru/russiafm
+
+#EXTINF:-1,Радио Русские песни
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.rusongs.ru:8005/ru-mp3-128
+
+#EXTINF:-1,Радио Русский Мир
+#EXTVLCOPT:http-user-agent=coming_soon
+https://a5.radioheart.ru:9043/nonstop
+
+#EXTINF:-1,Радио Русский Рок
+#EXTVLCOPT:http-user-agent=coming_soon
+http://air.volna.top/RusRock
+
+#EXTINF:-1,Радио Русь (Белгород)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio-holding.ru:9000/rus
+
+#EXTINF:-1,Радио СОК
+#EXTVLCOPT:http-user-agent=coming_soon
+http://82.146.46.30:8000/radiosok-msk
+
+#EXTINF:-1,Радио Салют FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.salyutfm.ru:8020/stream
+
+#EXTINF:-1,Радио Севастополь FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://air.volna.top/SFM
+
+#EXTINF:-1,Радио Серебряный Дождь
+#EXTVLCOPT:http-user-agent=coming_soon
+http://silverrain.hostingradio.ru/silver128.mp3
+
+#EXTINF:-1,Радио Сибирь (Абакан)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://90.189.123.116:8392/sibir128.mp3
+
+#EXTINF:-1,Радио Скай (Якутск)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://s0.radioheart.ru:8000/RH20436
+
+#EXTINF:-1,Радио Скиф (Орша) BY
+#EXTVLCOPT:http-user-agent=coming_soon
+http://178.172.150.248:2530/;
+
+#EXTINF:-1,Радио Славянский Мир
+#EXTVLCOPT:http-user-agent=coming_soon
+http://n1.slavmir.tv/slavmir256
+
+#EXTINF:-1,Радио Слово Божие
+#EXTVLCOPT:http-user-agent=coming_soon
+http://server32349.streamplus.de/stream
+
+#EXTINF:-1,Радио Справедливая Россия
+#EXTVLCOPT:http-user-agent=coming_soon
+http://spravedlivo.hostingradio.ru:8022/spravedlivo128.mp3
+
+#EXTINF:-1,Радио Страна FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.stranafm.cdnvideo.ru/stranafm
+
+#EXTINF:-1,Радио Странствий
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen2.myradio24.com:9000/4156
+
+#EXTINF:-1,Радио Томский Благовест
+#EXTVLCOPT:http-user-agent=coming_soon
+http://176.65.38.3:8000/;
+
+#EXTINF:-1,Радио Тропикано
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.tropeekano.ru:8006/stream
+
+#EXTINF:-1,Радио Тэтим (Якутск)
+#EXTVLCOPT:http-user-agent=coming_soon
+https://icecast-saha.cdnvideo.ru/saha
+
+#EXTINF:-1,Радио Украинская Песня
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen6.myradio24.com:9000/50904
+
+#EXTINF:-1,Радио Ультра
+#EXTVLCOPT:http-user-agent=coming_soon
+http://nashe1.hostingradio.ru:80/ultra-256
+
+#EXTINF:-1,Радио Хайп FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://air.volna.top/HypeFM
+
+#EXTINF:-1,Радио Хата 44
+#EXTVLCOPT:http-user-agent=coming_soon
+http://s0.radioheart.ru:8000/Xata44Radio
+
+#EXTINF:-1,Радио Хит FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://hitfm.hostingradio.ru/hitfm128.mp3
+
+#EXTINF:-1,Радио Хит FM - 2000-е
+#EXTVLCOPT:http-user-agent=coming_soon
+http://hitfm.hostingradio.ru/hit200096.aacp
+
+#EXTINF:-1,Радио Хорошего Настроения (Хабаровск)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://188.93.129.110:8000/fm1018
+
+#EXTINF:-1,Радио Чистый берег
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio.bereg.by:8000/HQ_320.mp3
+
+#EXTINF:-1,Радио Шалкар (KZ)
+#EXTVLCOPT:http-user-agent=coming_soon
+https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio
+
+#EXTINF:-1,Радио Шансон
+#EXTVLCOPT:http-user-agent=coming_soon
+http://chanson.hostingradio.ru:8041/chanson256.mp3
+
+#EXTINF:-1,Радио Шансон - Без Цензуры
+#EXTVLCOPT:http-user-agent=coming_soon
+http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3
+
+#EXTINF:-1,Радио Шансон - Романтика
+#EXTVLCOPT:http-user-agent=coming_soon
+http://chanson.hostingradio.ru:8041/chanson-romantic256.mp3
+
+#EXTINF:-1,Радио Шоколад
+#EXTVLCOPT:http-user-agent=coming_soon
+http://choco.hostingradio.ru:10010/fm
+
+#EXTINF:-1,Радио Экстрим
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radioextreme.ru/stream1
+
+#EXTINF:-1,Радио Этно FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://ethno.fm:8500/ethnofm.mp3
+
+#EXTINF:-1,Радио Югра (Ханты-Мансийск)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://ugra.cdnradio.ru/radiougra
+
+#EXTINF:-1,Радио Юмор FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://ic4.101.ru:8000/v5_1
+
+#EXTINF:-1,Радио Юность
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.vgtrk.cdnvideo.ru/unost
+
+#EXTINF:-1,Радио для Двоих (С.-Петербург)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast-radiofortwo.cdnvideo.ru/radiofortwo
+
+#EXTINF:-1,Роксана Радиосы (Уфа)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen1.myradio24.com:9000/2761
+
+#EXTINF:-1,Русское Радио
+#EXTVLCOPT:http-user-agent=coming_soon
+http://rusradio.hostingradio.ru/rusradio128.mp3
+
+#EXTINF:-1,Русское Радио - Бессмертный Полк
+#EXTVLCOPT:http-user-agent=coming_soon
+http://rusradio.hostingradio.ru:80/bessmertnyipolk96.aacp
+
+#EXTINF:-1,Русское Радио - Высоцкий
+#EXTVLCOPT:http-user-agent=coming_soon
+http://rusradio.hostingradio.ru:80/vysockij96.aacp
+
+#EXTINF:-1,Русское Радио - Детский канал
+#EXTVLCOPT:http-user-agent=coming_soon
+http://rusradio.hostingradio.ru:80/detskijkanal96.aacp
+
+#EXTINF:-1,Русское Радио - Золотой Граммофон
+#EXTVLCOPT:http-user-agent=coming_soon
+http://rusradio.hostingradio.ru:80/zolotoigrammofon96.aacp
+
+#EXTINF:-1,Русское Радио - Русский Рок
+#EXTVLCOPT:http-user-agent=coming_soon
+http://rusradio.hostingradio.ru:80/russkijrok96.aacp
+
+#EXTINF:-1,Русское Радио - Русское Кино
+#EXTVLCOPT:http-user-agent=coming_soon
+http://rusradio.hostingradio.ru:80/russkoekino96.aacp
+
+#EXTINF:-1,Русское Радио - Соня
+#EXTVLCOPT:http-user-agent=coming_soon
+http://rusradio.hostingradio.ru:80/sonya96.aacp
+
+#EXTINF:-1,Спокойное Радио
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen1.myradio24.com:9000/6262
+
+#EXTINF:-1,Старое Доброе Радио (Братск)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://91.189.162.134:8008/;stream
+
+#EXTINF:-1,Супер радио
+#EXTVLCOPT:http-user-agent=coming_soon
+http://aska.ru-hoster.com:8000/stream
+
+#EXTINF:-1,ТНТ Music Радио
+#EXTVLCOPT:http-user-agent=coming_soon
+http://tntradio.hostingradio.ru:8027/tntradio128.mp3
+
+#EXTINF:-1,ТНТ Music-Hip Hop
+#EXTVLCOPT:http-user-agent=coming_soon
+http://tntradio.hostingradio.ru:8027/hhr128.mp3
+
+#EXTINF:-1,Татарское радио
+#EXTVLCOPT:http-user-agent=coming_soon
+https://a4.radioheart.ru:9036/nonstop
+
+#EXTINF:-1,Эльдорадио (С.-Петербург)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://emgspb.hostingradio.ru/eldoradio128.mp3
+
+#EXTINF:-1 tvg-name="0 FM - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/im/0/1537439750.jpg" group-title="Радио", 0 FM - 128 kbit/s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://nashe1.hostingradio.ru/nashespb128.mp3
+
+#EXTINF:-1 tvg-name="1 FM - Absolute 90s" group-title="Радио", 1 FM - Absolute 90s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/90s_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Absolute Country Hits" group-title="Радио", 1 FM - Absolute Country Hits
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/acountry_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Absolute TOP 40 Radio" group-title="Радио", 1 FM - Absolute TOP 40 Radio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/top40_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Absolute Trance" group-title="Радио", 1 FM - Absolute Trance
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/trance_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Acappella" group-title="Радио", 1 FM - Acappella
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/acpl_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Adult Urban Hits Choice" group-title="Радио", 1 FM - Adult Urban Hits Choice
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/oldschool_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - All Euro 80s" group-title="Радио", 1 FM - All Euro 80s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/80s_90s_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Back To The 50s & 60s" group-title="Радио", 1 FM - Back To The 50s & 60s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/60s_70s_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Bay Smooth Jazz Radio" group-title="Радио", 1 FM - Bay Smooth Jazz Radio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/smoothjazz_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Chillout Costa Del Ma" group-title="Радио", 1 FM - Chillout Costa Del Ma
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/costadelmarchillout_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Chillout Lounge" group-title="Радио", 1 FM - Chillout Lounge
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/chilloutlounge_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Circuit Pride" group-title="Радио", 1 FM - Circuit Pride
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/circuitpride_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Classic Country" group-title="Радио", 1 FM - Classic Country
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/ccountry_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Classic Rock Replay" group-title="Радио", 1 FM - Classic Rock Replay
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/crock_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Club 1 Radio" group-title="Радио", 1 FM - Club 1 Radio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/club_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Country One" group-title="Радио", 1 FM - Country One
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/country_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - High Voltage" group-title="Радио", 1 FM - High Voltage
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/highvoltage_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Jamz" group-title="Радио", 1 FM - Jamz
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/jamz_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Reggae Trade" group-title="Радио", 1 FM - Reggae Trade
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/reggae_mobile_mp3
+
+#EXTINF:-1 tvg-name="8 FM  - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/im/2/1578023322.jpg" group-title="Радио", 8 FM  - 128 kbit/s
+#EXTVLCOPT:http-user-agent=coming_soon
+https://pub0302.101.ru:8443/stream/air/aac/64/101
+
+#EXTINF:-1 tvg-name="DNB FM - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/1403729004.png" group-title="Радио", DNB FM - 128 kbit/s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://go.dnbfm.ru:8000/play
+
+#EXTINF:-1 tvg-name="Dorozhnoe radio - Moskva 96.0 FM - 64 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/1403667572.png" group-title="Радио", Dorozhnoe radio - Moskva 96.0 FM - 64 kbit/s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dor2server.streamr.ru:8000/dor_64_no
+
+#EXTINF:-1 tvg-name="Eldoradio 101.4 FM - 64 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/29055.jpg" group-title="Радио", Eldoradio 101.4 FM - 64 kbit/s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://emgspb.hostingradio.ru/eldoradio64.mp3
+
+#EXTINF:-1 tvg-name="Evropa Plyus - Light - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/1439098397.png" group-title="Радио", Evropa Plyus - Light - 128 kbit/s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://emg02.hostingradio.ru/ep-light128.mp3
+
+#EXTINF:-1 tvg-name="Evropa Plyus - Moskva 106.2 FM - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/1439098397.png" group-title="Радио", Evropa Plyus - Moskva 106.2 FM - 128 kbit/s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://europaplus.hostingradio.ru:8014/europaplus320.mp3
+
+#EXTINF:-1 tvg-name="Evropa Plyus - New - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/1439098397.png" group-title="Радио", Evropa Plyus - New - 128 kbit/s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://emg02.hostingradio.ru/ep-new128.mp3
+
+#EXTINF:-1 tvg-name="Hit FM - Moskva - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/im/1/1549776861.jpg" group-title="Радио", Hit FM - Moskva - 128 kbit/s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://hitfm.hostingradio.ru/hitfm96.aacp
+
+#EXTINF:-1 tvg-name="Passazh - Moskva - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/im/5/1537514485.jpg" group-title="Радио", Passazh - Moskva - 128 kbit/s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radiopassazh.ru:8005/aac-48
+
+#EXTINF:-1 tvg-name="Radio 51 TV" group-title="Радио", Radio 51 TV
+#EXTVLCOPT:http-user-agent=coming_soon
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio 51 TV (IT)" group-title="Радио", Radio 51 TV (IT)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://178.32.140.155/canale51/canale51/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio Maksimum - Moskva 103.7 FM - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/29024.jpg" group-title="Радио", Radio Maksimum - Moskva 103.7 FM - 128 kbit/s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://maximum.hostingradio.ru/maximum96.aacp
+
+#EXTINF:-1 tvg-name="Radio PREMIUM (Premium) - Moskva - 192 kbit/s" tvg-logo="https://www.radio.pervii.com/im/0/1563844970.jpg" group-title="Радио", Radio PREMIUM (Premium) - Moskva - 192 kbit/s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://89.175.27.162:9000/aacp64
+
+#EXTINF:-1 tvg-name="Radio Talk Sport (UK)" group-title="Радио", Radio Talk Sport (UK)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio.talksport.com/stream
+
+#EXTINF:-1 tvg-name="ROCK-FM 95.2 FM - 64 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/1436065484.jpg" group-title="Радио", ROCK-FM 95.2 FM - 64 kbit/s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://nashe1.hostingradio.ru/rock-64.mp3
+
+#EXTINF:-1 tvg-name="Russkie Pesni - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/im/3/1537442683.jpg" group-title="Радио", Russkie Pesni - 128 kbit/s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.rusongs.ru/ru-mp3-128
+
+#EXTINF:-1 tvg-name="Serebryanyy dozhd - Moskva 100.1 FM - 64 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/1436081111.png" group-title="Радио", Serebryanyy dozhd - Moskva 100.1 FM - 64 kbit/s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.59.4.27:8000/stream48.mp3
+
+#EXTINF:-1 tvg-name="USA - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/im/0/1548167880.jpg" group-title="Радио", USA - 128 kbit/s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://s1.premium-streaming.com:9002/stream/1/
+
+#EXTINF:-1 tvg-name="Радио  Говорит Москва" group-title="Радио", Радио  Говорит Москва
+#EXTVLCOPT:http-user-agent=coming_soon
+http://video.govoritmoskva.ru:8080/rufm/index.m3u8
+
+#EXTINF:-1 tvg-name="Радио 7" group-title="Радио", Радио 7
+#EXTVLCOPT:http-user-agent=coming_soon
+http://europaplus.hostingradio.ru:8014/radiosept320.mp3
+
+#EXTINF:-1 tvg-name="Радио Deep One" group-title="Радио", Радио Deep One
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.deep1.ru:8000/deep1mp3
+
+#EXTINF:-1 tvg-name="Радио Zone 2000" group-title="Радио", Радио Zone 2000
+#EXTVLCOPT:http-user-agent=coming_soon
+http://free.radioheart.ru:8000/zone2000
+
+#EXTINF:-1 tvg-name="Радио Каприз - Hard Trance" group-title="Радио", Радио Каприз - Hard Trance
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8002/hardtrance
+
+#EXTINF:-1 tvg-name="Радио Каприз - Pop Rock" group-title="Радио", Радио Каприз - Pop Rock
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8002/poprock
+
+#EXTINF:-1 tvg-name="Радио Мята - Gold Hits" group-title="Радио", Радио Мята - Gold Hits
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio.dline-media.com/gold
+
+#EXTINF:-1 tvg-name="Радио Мята - The Hits Channel" group-title="Радио", Радио Мята - The Hits Channel
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio.dline-media.com/myata_hits
+
+#EXTINF:-1 tvg-name="Радио Хип-Хоп BY" group-title="Радио", Радио Хип-Хоп BY
+#EXTVLCOPT:http-user-agent=coming_soon
+http://online.hiphop.by:9000/8000
+
+#EXTINF:-1 tvg-name="Радиобар (Екатеринбург)" group-title="Радио", Радиобар (Екатеринбург)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://s1.radioheart.ru:8017/nonstop
+
+#EXTINF:-1 tvg-name="HandsUp and More" group-title="Радио", HandsUp and More
+#EXTVLCOPT:http-user-agent=coming_soon
+http://mp3.stream.tb-group.fm/tb.mp3?
+
+#EXTINF:-1 tvg-name="-RITM12" group-title="Радио", -RITM12
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/-RITM12
+
+#EXTINF:-1 tvg-name="-sexionhitsnet" group-title="Радио", -sexionhitsnet
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/-sexionhitsnet
+
+#EXTINF:-1 tvg-name="1-MIX-AR" group-title="Радио", 1-MIX-AR
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/1-MIX-AR
+
+#EXTINF:-1 tvg-name="13SR" group-title="Радио", 13SR
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/13SR
+
+#EXTINF:-1 tvg-name="Fun Rádio 80 - 90s" group-title="Радио", Fun Rádio 80 - 90s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.funradio.sk:8000/80-90-128.mp3
+
+#EXTINF:-1 tvg-name="90SGENERATIONVERSIONGROOVE" group-title="Радио", 90SGENERATIONVERSIONGROOVE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/90SGENERATIONVERSIONGROOVE
+
+#EXTINF:-1 tvg-name="96XRadiocom" group-title="Радио", 96XRadiocom
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/96XRadiocom
+
+#EXTINF:-1 tvg-name="[SOMA.FM] Tags Trance Trip" group-title="Радио", [SOMA.FM] Tags Trance Trip
+#EXTVLCOPT:http-user-agent=coming_soon
+http://ice.somafm.com/thetrip-64.aac
+
+#EXTINF:-1 tvg-name="A-ALounge" group-title="Радио", A-ALounge
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/A-ALounge
+
+#EXTINF:-1 tvg-name="A-POP40-FM-WEB" group-title="Радио", A-POP40-FM-WEB
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/A-POP40-FM-WEB
+
+#EXTINF:-1 tvg-name="A-PrOn-Invasion-Lounge" group-title="Радио", A-PrOn-Invasion-Lounge
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/A-PrOn-Invasion-Lounge
+
+#EXTINF:-1 tvg-name="a123-Radio" group-title="Радио", a123-Radio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/a123-Radio
+
+#EXTINF:-1 tvg-name="ABC-AGORA" group-title="Радио", ABC-AGORA
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/ABC-AGORA
+
+#EXTINF:-1 tvg-name="abc-madonna" group-title="Радио", abc-madonna
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/abc-madonna
+
+#EXTINF:-1 tvg-name="aces-radio" group-title="Радио", aces-radio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/aces-radio
+
+#EXTINF:-1 tvg-name="addictive-eurodance" group-title="Радио", addictive-eurodance
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/addictive-eurodance
+
+#EXTINF:-1 tvg-name="AFRODIZIACRADIO" group-title="Радио", AFRODIZIACRADIO
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/AFRODIZIACRADIO
+
+#EXTINF:-1 tvg-name="Agony-Massive-Radio-Remix" group-title="Радио", Agony-Massive-Radio-Remix
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/Agony-Massive-Radio-Remix
+
+#EXTINF:-1 tvg-name="AirCD-Hits-Radio" group-title="Радио", AirCD-Hits-Radio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/AirCD-Hits-Radio
+
+#EXTINF:-1 tvg-name="Aixperience" group-title="Радио", Aixperience
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/Aixperience
+
+#EXTINF:-1 tvg-name="AkibaStationRadio" group-title="Радио", AkibaStationRadio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/AkibaStationRadio
+
+#EXTINF:-1 tvg-name="AllAccessRadi0" group-title="Радио", AllAccessRadi0
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/AllAccessRadi0
+
+#EXTINF:-1 tvg-name="alpenradio-bistro" group-title="Радио", alpenradio-bistro
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/alpenradio-bistro
+
+#EXTINF:-1 tvg-name="Alpha-tune-974" group-title="Радио", Alpha-tune-974
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/Alpha-tune-974
+
+#EXTINF:-1 tvg-name="Alternative Rock X Hits Radio" group-title="Радио", Alternative Rock X Hits Radio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://185.33.21.169:8070
+
+#EXTINF:-1 tvg-name="AmazingsRadio" group-title="Радио", AmazingsRadio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/AmazingsRadio
+
+#EXTINF:-1 tvg-name="AMBROSYA" group-title="Радио", AMBROSYA
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/AMBROSYA
+
+#EXTINF:-1 tvg-name="AMNESIA-GROOVE" group-title="Радио", AMNESIA-GROOVE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/AMNESIA-GROOVE
+
+#EXTINF:-1 tvg-name="Antenne Bayern 80er Kulthits" group-title="Радио", Antenne Bayern 80er Kulthits
+#EXTVLCOPT:http-user-agent=coming_soon
+http://mp3channels.webradio.antenne.de/80er-kulthits
+
+#EXTINF:-1 tvg-name="Antenne Bayern Black Beatz" group-title="Радио", Antenne Bayern Black Beatz
+#EXTVLCOPT:http-user-agent=coming_soon
+http://mp3channels.webradio.antenne.de/black-beatz
+
+#EXTINF:-1 tvg-name="Antenne Bayern Chillout" group-title="Радио", Antenne Bayern Chillout
+#EXTVLCOPT:http-user-agent=coming_soon
+http://mp3channels.webradio.antenne.de/chillout
+
+#EXTINF:-1 tvg-name="Antenne Bayern Classic Rock Live" group-title="Радио", Antenne Bayern Classic Rock Live
+#EXTVLCOPT:http-user-agent=coming_soon
+http://mp3channels.webradio.antenne.de/classic-rock-live
+
+#EXTINF:-1 tvg-name="Antenne Bayern Event" group-title="Радио", Antenne Bayern Event
+#EXTVLCOPT:http-user-agent=coming_soon
+http://mp3channels.webradio.antenne.de/event
+
+#EXTINF:-1 tvg-name="Antenne Bayern Hits fur Kids" group-title="Радио", Antenne Bayern Hits fur Kids
+#EXTVLCOPT:http-user-agent=coming_soon
+http://mp3channels.webradio.antenne.de/hits-fuer-kids
+
+#EXTINF:-1 tvg-name="Antenne Bayern Love Songs" group-title="Радио", Antenne Bayern Love Songs
+#EXTVLCOPT:http-user-agent=coming_soon
+http://mp3channels.webradio.antenne.de/lovesongs
+
+#EXTINF:-1 tvg-name="Antenne Bayern Oldies but Goldies" group-title="Радио", Antenne Bayern Oldies but Goldies
+#EXTVLCOPT:http-user-agent=coming_soon
+http://mp3channels.webradio.antenne.de/oldies-but-goldies
+
+#EXTINF:-1 tvg-name="Antenne Bayern Schlagersahne" group-title="Радио", Antenne Bayern Schlagersahne
+#EXTVLCOPT:http-user-agent=coming_soon
+http://mp3channels.webradio.antenne.de/das-schlager-karussell
+
+#EXTINF:-1 tvg-name="Antenne Bayern Top 40" group-title="Радио", Antenne Bayern Top 40
+#EXTVLCOPT:http-user-agent=coming_soon
+http://mp3channels.webradio.antenne.de/top-40
+
+#EXTINF:-1 tvg-name="AOR-Radio-Rock-Live" group-title="Радио", AOR-Radio-Rock-Live
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.radionomy.com/AOR-Radio-Rock-Live
+
+#EXTINF:-1 tvg-name="1 FM - A List 80s" group-title="Радио", 1 FM - A List 80s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/back280s_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Afterbeat Electronica" group-title="Радио", 1 FM - Afterbeat Electronica
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/electronica_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Alternative Rock X Hits" group-title="Радио", 1 FM - Alternative Rock X Hits
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/x_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Americas Best Ballads" group-title="Радио", 1 FM - Americas Best Ballads
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/onelive_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Dance One" group-title="Радио", 1 FM - Dance One
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/dance_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Deep House" group-title="Радио", 1 FM - Deep House
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/deephouse_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Destination SPA" group-title="Радио", 1 FM - Destination SPA
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/spa_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Disco Ball 70s-80s" group-title="Радио", 1 FM - Disco Ball 70s-80s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/disco_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Eternal Praise Worship" group-title="Радио", 1 FM - Eternal Praise Worship
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/praise_mobile_mp3
+
+#EXTINF:-1 tvg-name="1 FM - Ottos Opera House Music" group-title="Радио", 1 FM - Ottos Opera House Music
+#EXTVLCOPT:http-user-agent=coming_soon
+http://strm112.1.fm/opera_mobile_mp3
+
+#EXTINF:-1 group-title="БЛАГОВЕЩЕНСК",[Радио] Комсомольская Правда 100.6 FM (Благовещенск)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
+
+#EXTINF:-1 group-title="ЕКАТЕРИНБУРГ",[Радио] Комсомольская Правда 92.3 FM (Екатеринбург)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://kpradio.hostingradio.ru:8000/ekaterinburg.radiokp128.mp3
+
+#EXTINF:-1 group-title="МОСКВА",[Радио] Радио России 66.44 УКВ (Москва)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
+
+#EXTINF:-1 group-title="МОСКВА",[Радио] Ретро FM 88.3 FM (Москва)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://retroserver.streamr.ru:8043/retro128
+
+#EXTINF:-1 group-title="МОСКВА",[Радио] Jazz FM 89.1 FM (Москва)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://nashe3.hostingradio.ru/jazz-128.mp3
+
+#EXTINF:-1 group-title="МОСКВА",[Радио] Культура 91.6 FM (Москва)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_64kbps
+
+#EXTINF:-1 group-title="МОСКВА",[Радио] Rock FM 95.2 FM (Москва)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://nashe1.hostingradio.ru/rock-128.mp3
+
+#EXTINF:-1 group-title="МОСКВА",[Радио] Дорожное радио 96.0 FM (Москва)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dorognoe.hostingradio.ru:8000/dorognoe_acc
+
+#EXTINF:-1 group-title="МОСКВА",[Радио] Вести FM 97.6 FM (Москва)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
+
+#EXTINF:-1 group-title="МОСКВА",[Радио] Серебряный дождь 100.1 FM (Москва)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.59.4.27:8000/silver128.mp3
+
+#EXTINF:-1 group-title="МОСКВА",[Радио] Best FM 100.5 FM (Москва)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://nashe3.hostingradio.ru/best-128.mp3
+
+#EXTINF:-1 group-title="МОСКВА",[Радио] Наше радио 101.7 FM (Москва)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://nashe3.hostingradio.ru/nashe-128.mp3
+
+#EXTINF:-1 group-title="МОСКВА",[Радио] Шансон 103.0 FM (Москва)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://chanson.hostingradio.ru:8041/chanson128.mp3
+
+#EXTINF:-1 group-title="МОСКВА",[Радио] Маяк 103.4 FM (Москва)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps
+
+#EXTINF:-1 group-title="МОСКВА",[Радио] 7 на семи холмах 104.7 FM (Москва)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://radio7server.streamr.ru:8040/radio7128.mp3
+
+#EXTINF:-1 group-title="МОСКВА",[Радио] Capital FM 105.3 FM (Москва)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3
+
+#EXTINF:-1 group-title="МОСКВА",[Радио] Русское Радио 105.7 FM (Москва)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://rusradio.hostingradio.ru/rusradio96.aacp?0.4177960461051895
+
+#EXTINF:-1 group-title="МОСКВА",[Радио] Европа плюс 106.2 FM (Москва)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://ep128.hostingradio.ru:8030/ep128
+
+#EXTINF:-1 group-title="НОВОСИБИРСК",[Радио] Комсомольская Правда 98.3 FM (Новосибирск)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://kpradio.hostingradio.ru:8000/novosibirsk.radiokp128.mp3
+
+#EXTINF:-1 group-title="НОВОСИБИРСК",[Радио] Радио-54 105.7 FM (Новосибирск)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://91.202.68.50:8000/;stream.mp3
+
+#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Дорожное радио 87.5 FM (Санкт-Петербург)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dorognoe.hostingradio.ru:8000/radio
+
+#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Ретро 88.0 FM (Санкт-Петербург)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://emgspb.hostingradio.ru/retrofmspb128.mp3
+
+#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Эрмитаж 90.1 FM (Санкт-Петербург)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://hermitage.hostingradio.ru/hermitage128.mp3
+
+#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Новое Радио 91.1 FM (Санкт-Петербург)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://emgspb.hostingradio.ru/novoespb128.mp3
+
+#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Energy 95.0 FM (Санкт-Петербург)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://pub0201.101.ru:8000/stream/air/aac/64/99
+
+#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Европа плюс 100.5 FM (Санкт-Петербург)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://emgspb.hostingradio.ru/europaplusspb128.mp3
+
+#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] DFM 103.4 FM (Санкт-Петербург)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://dfm.hostingradio.ru/dfm96.aacp
+
+#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Детское радио 103.7 FM (Санкт-Петербург)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://ic6.101.ru:8000/stream/air/aac/64/199
+
+#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Монте Карло 105.9 FM (Санкт-Петербург)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://montecarlo.hostingradio.ru/montecarlo96.aacp
+
+#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Русское Радио 107.8 FM (Санкт-Петербург)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://rusradio.hostingradio.ru/rusradio96.aacp?
+
+#EXTINF:-1 group-title="ТАМБОВ",[Радио] Маяк 89.8 FM (Тамбов)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.gtrktambov.cdnvideo.ru/rmicecast
+
+#EXTINF:-1 group-title="ТАМБОВ",[Радио] Радио России 100.9 FM (Тамбов)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast.gtrktambov.cdnvideo.ru/rricecast
+
+#EXTINF:-1 group-title="ТАМБОВ",[Радио] Радио Ваня 90.2 FM (Тамбов)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast-radiovanya.cdnvideo.ru/radiovanya
+
+#EXTINF:-1 group-title="ТАМБОВ",[Радио] Комсомольская правда 96.4 FM (Тамбов)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://kpradio.hostingradio.ru:8000/russia.radiokp256.mp3
+
+#EXTINF:-1 group-title="УФА",[Радио] Роксана радиосы 103.0 FM (Уфа)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen1.myradio24.com/2761
+
+#EXTINF:-1 group-title="ХАБАРОВСК",[Радио] Комсомольская Правда 88.3 FM (Хабаровск)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://kpradio.hostingradio.ru:8000/habarovsk.radiokp128.mp3
+
+#EXTINF:-1 group-title="КРАСНОЯРСК",[Радио] Дача 104.6 FM (Красноярск)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://listen.vdfm.ru:8000/dacha
+
+#EXTINF:-1 group-title="КРАСНОЯРСК",[Радио] Комсомольская Правда 107.1 FM (Красноярск)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://kpradio.hostingradio.ru:8000/krasnoyrsk.radiokp128.mp3
+
+#EXTINF:-1 group-title="🔺 INFO 🔺"  tvg-logo="https://i.postimg.cc/mg921GS6/online-radio-triangle-signs-38400058.png",Обновление:10.04.2023
+#EXTVLCOPT:http-user-agent=coming_soon
+http://194.26.229.213/zastavka/index.m3u8
+
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/jjkkG8Pc/Imagem-Telegram-Logo-PNG-Preto.png",Android TV + Free TV
+#EXTVLCOPT:http-user-agent=coming_soon
+http://194.26.229.213/intro/index.m3u8
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",NEOCLASSICAL METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/neoclassicalmetal
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",PAGAN METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/paganmetal
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",SYMPHONIC BLACK METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/symphonicblackmetal
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",GROOVE METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/groovemetal
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",SYMPHONIC METAL / SYMPHOMETAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/symphometal
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",DEATH DOOM METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/deathdoom
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",DARK METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/darkmetal
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",DOOM METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/doom
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",POST / INSTRO / ART METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/postmetal
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",PROGRESSIVE BLACK / POST-BLACK / BLACKGAZE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/postblack
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",GOTHIC DOOM METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/gothdoommet
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",PROGRESSIVE POWER METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/progpowermetal
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",NWOBHM (NEW WAVE OF BRITISH HEAVY METAL)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.12.130:8000/nwobhm
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",NEUE DEUTSCHE HARTE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/ndh
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",VIKING METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/vikingmetal
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",DEATH'N'ROLL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/deathnroll
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",FOLK BLACK METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.12.130:8000/folkblackmet
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",BLACK METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/blackmetal
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",DEATH METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/deathmetal
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",PROGRESSIVE DEATH METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/progdeath
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",NU METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/numetal
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",SLUDGE METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/sludgemetal
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",POWER METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/powermetal
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",BLACK / BLACKENED DEATH METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/blackdeath
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",INSTRUMENTAL METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/instrumentalmetal
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",AVANT-GARDE / EXPERIMENTAL METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/avantgardemetal
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",HEAVY POWER METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.12.130:8000/heavypowermetal
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",MELODIC HEAVY METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/melodicheavy
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",SYMPHONIC POWER METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/symphopower
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",SYMPHONIC GOTHIC METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/symphogoth
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",MEDIEVAL METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/medievalmetal
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",JAZZ / FUSION METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/jazzmetal
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",MELODIC DEATH METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/melodicdeath
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",GOTHIC BLACK METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/gothblackmet
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",FOLK DEATH METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.12.130:8000/folkdeathmet
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",PROGRESSIVE METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/progmetal
+
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",HEAVY METAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/heavymetal
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",RUSSIAN POP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/popru
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",NU DISCO
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/nudisco
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",POP MUSIC OF THE USSR
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/ussr
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",CHINESE POP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/cpop
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",TURKISH POP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/turkishpop
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",REGGAETON
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/reggaeton
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",CANTOPOP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.12.130:8000/cantopop
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",POP BALLADS
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/popballads
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",POP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/pop
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",ITALO DISCO
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/italodisco
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",JAPANESE POP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/jpop
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",FRENCH
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/frenchchanson
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",FRENCH POP MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.12.130:8000/frenchpop
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",KOREAN POP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/kpop
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",EURO DISCO
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/eurodisco
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",DISCO
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/disco
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",RUSSIAN POP 1980-1990s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/80ru
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",ARABIC POP MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/arabicpop
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",LATIN POP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/latinpop
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",DANCE POP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/dancepop
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",ITALIAN POP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/italopop
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",FOLK POP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/folkpop
+
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",CLASSIC POP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/tradpop
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",PSYCHOBILLY
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/psychobilly
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",INDIE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/indiepop
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",FOLK ROCK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/folkrock
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",ROCK'n'ROLL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/rockroll
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",HARD
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/hardrock
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",RUSSIAN ROCK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/rockru
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",GLAM ROCK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/glam
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",INSTRUMENTAL ROCK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/instrumentalrock
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",JAPANESE ROCK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/jrock
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",PROGRESSIVE ROCK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/progressiverock
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",NOISE ROCK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/noiserock
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",CROSSOVER PROG
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/crossoverprog
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",LATIN
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/latinjazz
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",PIANO ROCK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/pianorock
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",FUNK ROCK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/funkrock
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",SURF ROCK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/surfrock
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",PSYCHEDELIC ROCK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/psychedelicrock
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",DARK WAVE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/darkwave
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",PUNK ROCK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/punk
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",GRUNGE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/grunge
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",ART ROCK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/artrock
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",GOTH ROCK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/gothicrock
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",GARAGE ROCK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/garagerock
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",ACID ROCK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/acidrock
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",BLUES ROCK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/bluesrock
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",RUSSIAN PUNK ROCK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/punkru
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",SYMPHONIC ROCK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/symphorock
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",SPACE ROCK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/spacerock
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",POP ROCK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/poprock
+
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",INDIE FOLK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/indiefolk
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",UPLIFTING/EPIC/EUPHORIC TRANCE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/upliftingtrance
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",ELECTRO HOUSE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/electrohouse
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",Hardstyle
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/hardstyle
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",PROGRESSIVE TRANCE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/progtrance
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",RUSSIAN CLUB DANCE MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/clubru
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",GOA TRANCE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/goatrance
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",LO-FI
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/lo-fi
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",AMBIENT DUB
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/ambientdub
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",TECHNO
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/techno
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",AMBIENT
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/ambient
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",ELECTRO / ELECTRO FUNK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/electro
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",SPACESYNTH
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/spacesynth
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",NEUROFUNK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/neurofunk
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",DRONE AMBIENT
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/droneambient
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",ELECTROCLASH
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/electroclash
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",PUMPING HOUSE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/pumpinghouse
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",DARK DUBSTEP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/darkdubstep
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",RIDDIM DUBSTEP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/riddimdubstep
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",SUOMISAUNDI / FREEFORM PSYTRANCE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/suomisaundi
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",ELECTRO TECHNO
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/electrotechno
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",CYBERPUNK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.12.130:8000/cyberpunk
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",PROGRESSIVE ELECTRONIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.12.130:8000/progelectronic
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",INDUSTRIAL TECHNO
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.12.130:8000/industrialtechno
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",IDM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/idm
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",TRANCE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/trance
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",DARK TECHNO
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/darktechno
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",SPACE MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/spacemusic
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",DUBSTEP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/dubstep
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",DRUM'n'BASS
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/drumbass
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",HOUSE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/house
+
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",HI-TECH
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.12.130:8000/hitechpsy
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",SYMPHONY
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/symphony
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",CLASSICAL PIANO
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/classpiano
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",CONTEMPORARY CLASSICAL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/contclass
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",CLAVECIN
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/clavecin
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",CLASSICAL GUITAR
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/classguitar
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",SONATAS
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/sonata
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",LUTE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.12.130:8000/lute
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",CLASSICAL SYMPHONIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/classical
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",VOCAL MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/chorus
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",RENAISSANCE MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/renaissance
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",VIOLONCELLO
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.12.130:8000/cello
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",HARP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/harp
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",CHANTS
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/chants
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",CANTATA
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.12.130:8000/cantata
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",ORGAN MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/organ
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",BAROQUE MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/baroque
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",MEDIEVAL MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/medieval
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",CHRISTIAN SACRED MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/sacred
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",CLASSICAL AVANT-GARDE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/classavant
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",ORATORIO
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.12.130:8000/oratorio
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",OPERA
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/opera
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",STRINGS
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/strings
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",CLARINET
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/clarinet
+
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",MINIMALISM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/minimalism
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",SMOOTH JAZZ
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/smoothjazz
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",JAZZ FUNK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/jazzfunk
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",FREE JAZZ
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/nujazz
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",CONTEMPORARY JAZZ
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/contemporaryjazz
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",SOUL JAZZ
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/souljazz
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",MODERN CREATIVE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/mcreative
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",CHAMBER JAZZ
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/chamberjazz
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",CROSSOVER JAZZ
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/crossoverjazz
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",VIBRAPHONE IN JAZZ
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/vibraphone
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",SWING
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/swing
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",HARD BOP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/hardbop
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",BOSSA NOVA
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/bossanova
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",JAZZ POP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/jazzpop
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",MODAL JAZZ
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/modaljazz
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",BIG BAND
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/bigband
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",POST BOP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/postbop
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",PIANO JAZZ
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/pianojazz
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",AVANT-GARDE JAZZ
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/avantgardejazz
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",AMBIENT JAZZ
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/darkjazz
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",DIXIELAND
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/dixieland
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",ACID
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/acidjazz
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",JAZZ FUSION
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/jazzfusion
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",GUITAR JAZZ
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/guitarjazz
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",THIRD STREAM JAZZ
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/thirdstream
+
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",JAZZ TRUMPET
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/trumpetjazz
+
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",ACOUSTIC BLUES
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/acousticblues
+
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",SOUL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/soul
+
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",DELTA BLUES
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/deltablues
+
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",SOUL BLUES
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/soulblues
+
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",FUNK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/funk
+
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",HARP BLUES
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/harpblues
+
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",COUNTRY
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/countryblues
+
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",PIANO BLUES
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/pianoblues
+
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",JUMP BLUES
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/jumpblues
+
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",WEST COAST BLUES
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.12.130:8000/westcoastblues
+
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",SLIDE GUITAR
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/slideguitar
+
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",CHICAGO BLUES
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/chicagoblues
+
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",HARD BLUES
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/heavyblues
+
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",POP SOUL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/popsoul
+
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",BLUES
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/blues
+
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",TEXAS BLUES
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/texasblues
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",Indian Folk
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/indianfolk
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",RUSSIAN FOLK MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/russianfolk
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",ORTHODOX SPIRITUAL MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/orthodox
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",GREEK MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/laika
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",GOSPEL / SPIRITUALS MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/gospel
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",EUROPEAN FOLK MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/europeanfolk
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",FLAMENCO
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/flamenco
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",TANGO
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/tango
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",MIDDLE EASTERN
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/middleeast
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",AFRICAN FOLK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/africanfolk
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",MUSIC OF SIBERIA
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/siberia
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",ANDEAN / SOUTH AMERICAN MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/andean
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",ZYDECO
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/zydeco
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",AFROBEAT
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/afrobeat
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",CELTIC MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/celtic
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",NATIVE AMERICAN MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/nativeamerican
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",BALKAN MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/balkan
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",CAUCASIAN MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/caucasus
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",INDIAN SPIRITUAL MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/mantras
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",SLAVIC NEOFOLK MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/slavonicneofolk
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",TRADITIONAL LATIN MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/salsa
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",FAR EASTERN TRADITIONAL MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/fareast
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",JEWISH MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/klezmer
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",MEDIEVAL FOLK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/medievalfolk
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",FADO (PORTUGUESE MUSIC)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/fado
+
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",OCEANIA / AUSTRALIA
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/oceania
+
+#EXTINF:-1 group-title="REGGAE/SKA" tvg-logo="https://i.postimg.cc/QMMpGp1j/6.jpg",REGGAE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/reggae
+
+#EXTINF:-1 group-title="REGGAE/SKA" tvg-logo="https://i.postimg.cc/QMMpGp1j/6.jpg",SKA
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/ska
+
+#EXTINF:-1 group-title="REGGAE/SKA" tvg-logo="https://i.postimg.cc/QMMpGp1j/6.jpg",DUB MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/dub
+
+#EXTINF:-1 group-title="REGGAE/SKA" tvg-logo="https://i.postimg.cc/QMMpGp1j/6.jpg",SKA PUNK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/skapunk
+
+#EXTINF:-1 group-title="REGGAE/SKA" tvg-logo="https://i.postimg.cc/QMMpGp1j/6.jpg",DANCEHALL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/dancehall
+
+#EXTINF:-1 group-title="REGGAE/SKA" tvg-logo="https://i.postimg.cc/QMMpGp1j/6.jpg",ROCKSTEADY
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/rocksteady
+
+#EXTINF:-1 group-title="REGGAE/SKA" tvg-logo="https://i.postimg.cc/QMMpGp1j/6.jpg",ROOTS REGGAE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/rootsreggae
+
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",MELODIC DEATHCORE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/deathcore
+
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",CRUST PUNK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/crust
+
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",BEATDOWN/MOSHCORE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/beatdown
+
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",RAPCORE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/rapcore
+
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",METALCORE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/metalcore
+
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",PROGRESSIVE METALCORE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/progmetalcore
+
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",GRINDCORE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/grindcore
+
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",MELODIC METALCORE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/melodicmetalcore
+
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",MATHCORE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/mathcore
+
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",MELODIC HARDCORE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/hardcoremetal
+
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",ELECTRONICORE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/electronicore
+
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",HIP-HOP MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/hiphop
+
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",GANGSTA RAP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/gangstarap
+
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",INSTRUMENTAL HIP-HOP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/instrumentalhiphop
+
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",DEUTSCHE HIP-HOP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/germanrap
+
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",CLOUD RAP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/cloudrap
+
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",RUSSIAN RAP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/rapru
+
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",EAST COAST RAP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/eastcoastrap
+
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",JAZZ RAP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/jazzrap
+
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",FRENCH HIP-HOP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/frenchrap
+
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",CHICANO RAP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/chicanorap
+
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",RAP MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/rap
+
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",UNDERGROUND RAP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/undergroundrap
+
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",HORRORCORE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.39.202:8000/hardcorerap
+
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",BRITISH HIP-HOP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/ukhiphop
+
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",ABSTRACT
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/abstracthiphop
+
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",SOUTHERN RAP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/southernrap
+
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",OLD SCHOOL
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/oldschoolhiphop
+
+#EXTINF:-1 group-title="COUNTRY" tvg-logo="https://i.postimg.cc/hGfwpQC5/2.jpg",ALTERNATIVE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/altcountry
+
+#EXTINF:-1 group-title="COUNTRY" tvg-logo="https://i.postimg.cc/hGfwpQC5/2.jpg",HONKY-TONK
+#EXTVLCOPT:http-user-agent=coming_soon
+http://213.141.131.10:8000/honkytonk
+
+#EXTINF:-1 group-title="COUNTRY" tvg-logo="https://i.postimg.cc/hGfwpQC5/2.jpg",BLUEGRASS
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.14.76:8000/bluegrass
+
+#EXTINF:-1 group-title="COUNTRY" tvg-logo="https://i.postimg.cc/hGfwpQC5/2.jpg",WESTERN SWING MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.12.130:8000/westernswing
+
+#EXTINF:-1 group-title="COUNTRY" tvg-logo="https://i.postimg.cc/hGfwpQC5/2.jpg",COUNTRY MUSIC
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/country
+
+#EXTINF:-1 group-title="COUNTRY" tvg-logo="https://i.postimg.cc/hGfwpQC5/2.jpg",COUNTRY POP
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.111.119.111:8000/countrypop
+
+#EXTINF:-1 group-title="SHANSON" tvg-logo="https://i.postimg.cc/Pfg61r8d/dostavka-shanson-ekb.jpg",RUSSIAN SHANSON
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/shansonru
+
+#EXTINF:-1 group-title="SHANSON" tvg-logo="https://i.postimg.cc/Pfg61r8d/dostavka-shanson-ekb.jpg",RUSSIAN POST SHANSON
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/postshanson
+
+#EXTINF:-1 group-title="SHANSON" tvg-logo="https://i.postimg.cc/Pfg61r8d/dostavka-shanson-ekb.jpg",GYPSY ROMANCES
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/gypsyru
+
+#EXTINF:-1 group-title="SHANSON" tvg-logo="https://i.postimg.cc/Pfg61r8d/dostavka-shanson-ekb.jpg",RUSSIAN ROMANCE
+#EXTVLCOPT:http-user-agent=coming_soon
+http://79.120.77.11:8000/romanceru
+
