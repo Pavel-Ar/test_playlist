@@ -3,7 +3,7 @@
 
 #EXTINF:-1,Онлайн радио ФОНТАН
 #EXTVLCOPT:http-user-agent=coming_soon
-http://stream.radiofontan.moz.su/radiofontan
+http://stream.radiofontan.moz.su:8000/radiofontan
 
 #EXTINF:-1,Eurodance
 #EXTVLCOPT:http-user-agent=coming_soon
