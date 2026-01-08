@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTENC:UTF-8
+
+#EXTINF:-1,ПИ ФМ
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream04.pcradio.ru/pifm_ru-hi
+
+#EXTINF:-1,Вести FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream04.pcradio.ru/radiovesti_ru-hi
+
+
+#EXTINF:-1,Маяк
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream04.pcradio.ru/radiomayak_ru-hi
+
+#EXTINF:-1,Юмор ФМ
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream04.pcradio.ru/yumor_fm-hi
+
+#EXTINF:-1,Радио России
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream04.pcradio.ru/radiorus_ru-hi
+
+#EXTINF:-1,Радио Книга
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream04.pcradio.ru/radiokniga_com-hi
+
+#EXTINF:-1,Радио Модель для сборки 1
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream04.pcradio.ru/mdsst_ru_1-hi
+
+#EXTINF:-1,Свежее радио
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream04.pcradio.ru/rad_rufre-hi
+
+#EXTINF:-1,Маруся ФМ
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream04.pcradio.ru/marusya_fm-hi
+
