@@ -76,3 +76,7 @@ http://stream04.pcradio.ru/wrn_ru-hi
 #EXTINF:-1,SUPER - RADIO Remix
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream04.pcradio.ru/rad_sprradr-hi
+
+#EXTINF:-1,Sok FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream04.pcradio.ru/sokfm_gr-hi
