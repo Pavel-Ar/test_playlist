@@ -64,3 +64,11 @@ http://live.lofiradio.ru:8000/lofi_mp3_128
 #EXTINF:-1,Rádio Lofi - Hunter.FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream04.pcradio.ru/rad_hntrfmlf-hi
+
+#EXTINF:-1,Русская Дискотека
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream04.pcradio.ru/rad_russkyadscotka-hi
+
+#EXTINF:-1,Всемирная радиосеть
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream04.pcradio.ru/wrn_ru-hi
