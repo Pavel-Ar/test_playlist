@@ -57,6 +57,6 @@ http://stream04.pcradio.ru/rad_gusnovogdniy-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://icecast-radioclassica.cdnvideo.ru/sberzvuk
 
-#EXTINF:-1,ЛОФТ
+#EXTINF:-1,Rádio Lofi - Hunter.FM
 #EXTVLCOPT:http-user-agent=coming_soon
-http://live.lofiradio.ru:8000/lofi_mp3_128
+http://stream04.pcradio.ru/rad_hntrfmlf-hi
