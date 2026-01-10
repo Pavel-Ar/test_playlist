@@ -56,3 +56,7 @@ http://stream04.pcradio.ru/rad_gusnovogdniy-hi
 #EXTINF:-1,Популярная Классика
 #EXTVLCOPT:http-user-agent=coming_soon
 http://icecast-radioclassica.cdnvideo.ru/sberzvuk
+
+#EXTINF:-1,ЛОФТ
+#EXTVLCOPT:http-user-agent=coming_soon
+http://live.lofiradio.ru:8000/lofi_mp3_128
