@@ -52,3 +52,7 @@ http://stream04.pcradio.ru/relax_fm_ru-hi
 #EXTINF:-1,ГУСЬ.Новогодний
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream04.pcradio.ru/rad_gusnovogdniy-hi
+
+#EXTINF:-1,Популярная Классика
+#EXTVLCOPT:http-user-agent=coming_soon
+http://icecast-radioclassica.cdnvideo.ru/sberzvuk
