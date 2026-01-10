@@ -59,7 +59,7 @@ http://icecast-radioclassica.cdnvideo.ru/sberzvuk
 
 #EXTINF:-1,bigFM LoFi Focus
 #EXTVLCOPT:http-user-agent=coming_soon
-https://stream.pcradio.ru/rad_bgfmlffocus-hi
+http://stream.pcradio.ru/rad_bgfmlffocus-hi
 
 #EXTINF:-1,Rádio Lofi - Hunter.FM
 #EXTVLCOPT:http-user-agent=coming_soon
