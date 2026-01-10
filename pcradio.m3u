@@ -3,79 +3,79 @@
 
 #EXTINF:-1,ПИ ФМ
 #EXTVLCOPT:http-user-agent=coming_soon
-http://stream04.pcradio.ru/pifm_ru-hi
+http://stream.pcradio.ru/pifm_ru-hi
 
 #EXTINF:-1,Маруся ФМ
 #EXTVLCOPT:http-user-agent=coming_soon
-http://stream04.pcradio.ru/marusya_fm-hi
+http://stream.pcradio.ru/marusya_fm-hi
 
 #EXTINF:-1,Юмор ФМ
 #EXTVLCOPT:http-user-agent=coming_soon
-http://stream04.pcradio.ru/yumor_fm-hi
+http://stream.pcradio.ru/yumor_fm-hi
 
 #EXTINF:-1,Вести FM
 #EXTVLCOPT:http-user-agent=coming_soon
-http://stream04.pcradio.ru/radiovesti_ru-hi
+http://stream.pcradio.ru/radiovesti_ru-hi
 
 #EXTINF:-1,Маяк
 #EXTVLCOPT:http-user-agent=coming_soon
-http://stream04.pcradio.ru/radiomayak_ru-hi
+http://stream.pcradio.ru/radiomayak_ru-hi
 
 #EXTINF:-1,Радио России
 #EXTVLCOPT:http-user-agent=coming_soon
-http://stream04.pcradio.ru/radiorus_ru-hi
+http://stream.pcradio.ru/radiorus_ru-hi
 
 #EXTINF:-1,Радиотеатр
 #EXTVLCOPT:http-user-agent=coming_soon
-http://stream04.pcradio.ru/rad_rtrclbrdttr-hi
+http://stream.pcradio.ru/rad_rtrclbrdttr-hi
 
 #EXTINF:-1,Радио Книга
 #EXTVLCOPT:http-user-agent=coming_soon
-http://stream04.pcradio.ru/radiokniga_com-hi
+http://stream.pcradio.ru/radiokniga_com-hi
 
 #EXTINF:-1,Радио Модель для сборки 1
 #EXTVLCOPT:http-user-agent=coming_soon
-http://stream04.pcradio.ru/mdsst_ru_1-hi
+http://stream.pcradio.ru/mdsst_ru_1-hi
 
 #EXTINF:-1,Радио Фантастики
 #EXTVLCOPT:http-user-agent=coming_soon
-http://stream04.pcradio.ru/radio_fantastiki-hi
+http://stream.pcradio.ru/radio_fantastiki-hi
 
 #EXTINF:-1,Свежее радио
 #EXTVLCOPT:http-user-agent=coming_soon
-http://stream04.pcradio.ru/rad_rufre-hi
+http://stream.pcradio.ru/rad_rufre-hi
 
 #EXTINF:-1,Relax FM
 #EXTVLCOPT:http-user-agent=coming_soon
-http://stream04.pcradio.ru/relax_fm_ru-hi
+http://stream.pcradio.ru/relax_fm_ru-hi
 
 #EXTINF:-1,ГУСЬ.Новогодний
 #EXTVLCOPT:http-user-agent=coming_soon
-http://stream04.pcradio.ru/rad_gusnovogdniy-hi
+http://stream.pcradio.ru/rad_gusnovogdniy-hi
 
 #EXTINF:-1,Популярная Классика
 #EXTVLCOPT:http-user-agent=coming_soon
 http://icecast-radioclassica.cdnvideo.ru/sberzvuk
 
-#EXTINF:-1,ЛОФТ
+#EXTINF:-1,bigFM LoFi Focus
 #EXTVLCOPT:http-user-agent=coming_soon
-http://live.lofiradio.ru:8000/lofi_mp3_128
+https://stream.pcradio.ru/rad_bgfmlffocus-hi
 
 #EXTINF:-1,Rádio Lofi - Hunter.FM
 #EXTVLCOPT:http-user-agent=coming_soon
-http://stream04.pcradio.ru/rad_hntrfmlf-hi
+http://stream.pcradio.ru/rad_hntrfmlf-hi
 
 #EXTINF:-1,Русская Дискотека
 #EXTVLCOPT:http-user-agent=coming_soon
-http://stream04.pcradio.ru/rad_russkyadscotka-hi
+http://stream.pcradio.ru/rad_russkyadscotka-hi
 
 #EXTINF:-1,Всемирная радиосеть
 #EXTVLCOPT:http-user-agent=coming_soon
-http://stream04.pcradio.ru/wrn_ru-hi
+http://stream.pcradio.ru/wrn_ru-hi
 
 #EXTINF:-1,SUPER - RADIO Remix
 #EXTVLCOPT:http-user-agent=coming_soon
-http://stream04.pcradio.ru/rad_sprradr-hi
+http://stream.pcradio.ru/rad_sprradr-hi
 
 #EXTINF:-1,Sok FM
 #EXTVLCOPT:http-user-agent=coming_soon
