@@ -72,3 +72,7 @@ http://stream04.pcradio.ru/rad_russkyadscotka-hi
 #EXTINF:-1,Всемирная радиосеть
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream04.pcradio.ru/wrn_ru-hi
+
+#EXTINF:-1,SUPER - RADIO Remix
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream04.pcradio.ru/rad_sprradr-hi
