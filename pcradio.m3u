@@ -80,3 +80,7 @@ http://stream.pcradio.ru/rad_sprradr-hi
 #EXTINF:-1,Sok FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://5.restream.one/1089_1
+
+#EXTINF:-1,Чистый Кайф ()
+#EXTVLCOPT:http-user-agent=coming_soon
+http://s05.volnorez.com/live-app/cid/752890/9ceea9794cf14653
