@@ -65,6 +65,10 @@ http://stream.pcradio.ru/rad_bgfmlffocus-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru/rad_hntrfmlf-hi
 
+#EXTINF:-1,Lo-Fi - радио
+#EXTVLCOPT:http-user-agent=coming_soon
+http://srv01.gpmradio.ru/stream/pro/aac/64/358
+
 #EXTINF:-1,Русская Дискотека
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru/rad_russkyadscotka-hi
