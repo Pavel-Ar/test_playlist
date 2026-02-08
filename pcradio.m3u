@@ -89,6 +89,6 @@ http://5.restream.one/1089_1
 #EXTVLCOPT:http-user-agent=coming_soon
 http://s04.volnorez.com/live-app/cid/913786/37aaf45c92db682e
 
-#EXTINF:-1,ФОНТАН
+#EXTINF:-1,Локальный
 #EXTVLCOPT:123
-http://stream.radiofontan.moz.su/radiofontan_128
+http://192.168.0.170:8000/
