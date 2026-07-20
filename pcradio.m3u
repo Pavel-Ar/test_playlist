@@ -92,3 +92,6 @@ http://listen2.myradio24.com/serz
 #EXTINF:-1,КAMERTON-RADIO
 #EXTVLCOPT:http-user-agent=coming_soon
 http://s04.volnorez.com/live-app/cid/913786/37aaf45c92db682e
+
+#EXTINF:-1,456456456456456456
+http://193.232.36.4:8877/aplus
