@@ -7,7 +7,7 @@ http://rmx.amgradio.ru/remixfm.aacp
 
 #EXTINF:-1,Sok FM
 #EXTVLCOPT:http-user-agent=coming_soon
-http://5.restream.one/1089_1
+http://82.146.46.30:8000/radiosok-msk
 
 #EXTINF:-1,ПИ FM
 #EXTVLCOPT:http-user-agent=coming_soon
