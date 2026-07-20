@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTENC:UTF-8
 
+#EXTINF:-1,Remix FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://193.232.36.4:8877/remixfm
+
 #EXTINF:-1,ПИ ФМ
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru/pifm_ru-hi
