@@ -3,7 +3,7 @@
 
 #EXTINF:-1,Remix FM
 #EXTVLCOPT:http-user-agent=coming_soon
-http://rmx.amgradio.ru/remixfm.aacp
+http://193.232.36.4:8877/remixfm
 
 #EXTINF:-1,Jazz FM 89.1
 #EXTVLCOPT:http-user-agent=coming_soon
