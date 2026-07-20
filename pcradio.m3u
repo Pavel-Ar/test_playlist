@@ -2,35 +2,27 @@
 #EXTENC:UTF-8
 
 #EXTINF:-1,Онлайн радио Фонтан5
-#EXTVLCOPT:http-user-agent=coming_soon
 http://193.232.36.4:8877/remixfm.mp3
 
 #EXTINF:-1,Remix FM
-#EXTVLCOPT:http-user-agent=coming_soon
 http://rmx.amgradio.ru/remixfm.aacp
 
 #EXTINF:-1,Sok FM
-#EXTVLCOPT:http-user-agent=coming_soon
 http://82.146.46.30:8000/radiosok-msk
 
 #EXTINF:-1,ПИ FM
-#EXTVLCOPT:http-user-agent=coming_soon
 http://cdn.pifm.ru/mp3
 
 #EXTINF:-1,Маруся FM
-#EXTVLCOPT:http-user-agent=coming_soon
 http://listen.vdfm.ru:8000/marusya
 
 #EXTINF:-1,Юмор FM
-#EXTVLCOPT:http-user-agent=coming_soon
 http://gpm.hostingradio.ru/gpm-humorfm495.aacp
 
 #EXTINF:-1,Вести FM
-#EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru/radiovesti_ru-hi
 
 #EXTINF:-1,Маяк
-#EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru/radiomayak_ru-hi
 
 #EXTINF:-1,Радио России
