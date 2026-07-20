@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTENC:UTF-8
 
+#EXTINF:-1,Онлайн радио Фонтан5
+#EXTVLCOPT:http-user-agent=coming_soon
+http://193.232.36.4:8877/remixfm.mp3
+
 #EXTINF:-1,Remix FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://rmx.amgradio.ru/remixfm.aacp
@@ -96,7 +100,3 @@ http://listen2.myradio24.com/serz
 #EXTINF:-1,КAMERTON-RADIO
 #EXTVLCOPT:http-user-agent=coming_soon
 http://s04.volnorez.com/live-app/cid/913786/37aaf45c92db682e
-
-#EXTINF:-1,Онлайн радио Фонтан5
-#EXTVLCOPT:http-user-agent=coming_soon
-http://193.232.36.4:8877/remixfm.mp3
