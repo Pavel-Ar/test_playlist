@@ -5,21 +5,21 @@
 #EXTVLCOPT:http-user-agent=coming_soon
 http://rmx.amgradio.ru/remixfm.aacp
 
-#EXTINF:-1,Jazz FM 89.1
+#EXTINF:-1,Sok FM
 #EXTVLCOPT:http-user-agent=coming_soon
-http://nashe1.hostingradio.ru/jazz-128.mp3
+http://5.restream.one/1089_1
 
-#EXTINF:-1,ПИ ФМ
+#EXTINF:-1,ПИ FM
 #EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru/pifm_ru-hi
+http://cdn.pifm.ru/mp3
 
-#EXTINF:-1,Маруся ФМ
+#EXTINF:-1,Маруся FM
 #EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru/marusya_fm-hi
+http://listen.vdfm.ru:8000/marusya
 
-#EXTINF:-1,Юмор ФМ
+#EXTINF:-1,Юмор FM
 #EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru/yumor_fm-hi
+http://gpm.hostingradio.ru/gpm-humorfm495.aacp
 
 #EXTINF:-1,Вести FM
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -32,6 +32,10 @@ http://stream.pcradio.ru/radiomayak_ru-hi
 #EXTINF:-1,Радио России
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru/radiorus_ru-hi
+
+#EXTINF:-1,Jazz FM 89.1
+#EXTVLCOPT:http-user-agent=coming_soon
+http://nashe1.hostingradio.ru/jazz-128.mp3
 
 #EXTINF:-1,Радиотеатр
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -88,10 +92,6 @@ http://stream.pcradio.ru/wrn_ru-hi
 #EXTINF:-1,SUPER - RADIO Remix
 #EXTVLCOPT:http-user-agent=coming_soon
 http://listen2.myradio24.com/serz
-
-#EXTINF:-1,Sok FM
-#EXTVLCOPT:http-user-agent=coming_soon
-http://5.restream.one/1089_1
 
 #EXTINF:-1,КAMERTON-RADIO ()
 #EXTVLCOPT:http-user-agent=coming_soon
