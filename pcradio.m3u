@@ -93,10 +93,10 @@ http://stream.pcradio.ru/wrn_ru-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://listen2.myradio24.com/serz
 
-#EXTINF:-1,КAMERTON-RADIO ()
+#EXTINF:-1,КAMERTON-RADIO
 #EXTVLCOPT:http-user-agent=coming_soon
 http://s04.volnorez.com/live-app/cid/913786/37aaf45c92db682e
 
-#EXTINF:-1,Онлайн радио Фонтан ()
+#EXTINF:-1,Онлайн радио Фонтан
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.radiofontan.moz.su/radiofontan_128
