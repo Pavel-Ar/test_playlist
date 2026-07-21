@@ -23,7 +23,7 @@ http://gpm.hostingradio.ru/gpm-humorfm495.aacp
 http://stream.pcradio.ru/radiovesti_ru-hi
 
 #EXTINF:-1,Маяк
-http://stream.pcradio.ru/radiomayak_ru-hi
+http://stream.pcradio.ru:8877/radiomayak_ru-hi
 
 #EXTINF:-1,Радио России
 #EXTVLCOPT:http-user-agent=coming_soon
