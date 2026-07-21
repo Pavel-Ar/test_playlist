@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTENC:UTF-8
 
+#EXTINF:-1,Маяк
+http://stream.pcradio.ru:8877/radiomayak_ru-hi
+
 #EXTINF:-1,Онлайн радио Фонтан5
 http://193.232.36.4:8877/remixfm.mp3
 
