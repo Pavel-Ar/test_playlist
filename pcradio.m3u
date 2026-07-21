@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTENC:UTF-8
 
+#EXTINF:-1,R1
+http://193.232.36.4:8877/remixfm.mp3
+
 #EXTINF:-1,Remix FM
 http://rmx.amgradio.ru/remixfm.aacp
 
