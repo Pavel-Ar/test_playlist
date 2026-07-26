@@ -1,38 +1,53 @@
 #EXTM3U
 #EXTENC:UTF-8
 
-#EXTINF:-1,R1
-http://193.232.36.4:8877/remixfm.mp3
-
 #EXTINF:-1,Remix FM
-http://rmx.amgradio.ru/remixfm.aacp
+http://streamradio1.moz.su:8877/remixfm
 
-#EXTINF:-1,Sok FM
-http://82.146.46.30:8000/radiosok-msk
+#EXTINF:-1,Russian Mix
+http://streamradio1.moz.su:8877/record-rus
 
-#EXTINF:-1,ПИ FM
-http://cdn.pifm.ru/mp3
+#EXTINF:-1,Онлайн Радио ФОНТАН
+http://stream.radiofontan.moz.su/radiofontan
+
+#EXTINF:-1,Сок FM - Москва
+http://streamradio1.moz.su:8877/radiosok-msk
+
+#EXTINF:-1,Пи FM
+http://streamradio1.moz.su:8877/pifm
 
 #EXTINF:-1,Маруся FM
-http://listen.vdfm.ru:8000/marusya
+http://streamradio1.moz.su:8877/marusafm
 
 #EXTINF:-1,Юмор FM
-http://gpm.hostingradio.ru/gpm-humorfm495.aacp
-
-#EXTINF:-1,Вести FM
-http://stream.pcradio.ru/radiovesti_ru-hi
-
-#EXTINF:-1,Маяк
-http://stream.pcradio.ru:8877/radiomayak_ru-hi
+http://streamradio1.moz.su:8877/humorfm
 
 #EXTINF:-1,Радио России
-http://stream.pcradio.ru/radiorus_ru-hi
+http://streamradio1.moz.su:8877/radio-rossii
 
-#EXTINF:-1,Jazz FM 89.1
-http://nashe1.hostingradio.ru/jazz-128.mp3
+#EXTINF:-1,Маяк
+http://streamradio1.moz.su:8877/mayak
+
+#EXTINF:-1,Всемирная радиосеть
+http://streamradio1.moz.su:8877/wrs
+
+#EXTINF:-1,Европа Плюс
+http://streamradio1.moz.su:8877/europaplus
+
+#EXTINF:-1,Свежее
+http://streamradio1.moz.su:8877/fresh
+
+#EXTINF:-1,Говорит Майкоп
+http://streamradio1.moz.su:8877/voicemaikop
+
+#EXTINF:-1,Вести FM
+http://streamradio1.moz.su:8877/vestifm
+
+#EXTINF:-1,Ретроклуб
+http://streamradio1.moz.su:8877/retroclub
 
 #EXTINF:-1,Радиотеатр
-http://stream.pcradio.ru/rad_rtrclbrdttr-hi
+http://streamradio1.moz.su:8877/retroclub_skazki
 
 #EXTINF:-1,Радио Книга
 http://stream.pcradio.ru/radiokniga_com-hi
@@ -75,3 +90,6 @@ http://listen2.myradio24.com/serz
 
 #EXTINF:-1,КAMERTON-RADIO
 http://s04.volnorez.com/live-app/cid/913786/37aaf45c92db682e
+
+#EXTINF:-1,Jazz FM 89.1
+http://nashe1.hostingradio.ru/jazz-128.mp3
